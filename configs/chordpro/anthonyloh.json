@@ -1,0 +1,304 @@
+// Configuration for ChordPro.
+//
+// This is a relaxed JSON document, so comments are possible.
+
+{
+    // Metadata.
+    // For these keys you can use {meta key ...} as well as {key ...}.
+    // If strict is nonzero, only the keys named here are allowed.
+    // If strict is zero, {meta ...} will accept any key.
+    // Important: "title" and "subtitle" must always be in this list.
+    // The separator is used to concatenate multiple values.
+    // If autosplit is true, the separator is also used to split
+    // values upon input.
+    "metadata" : {
+      "keys" : [ "append","original_key","version" ]
+    },
+
+    // Dates. Format is a strftime template.
+    "dates" : {
+        "today" : {
+            "format" : "%Y-%b-%e"
+        }
+    },
+
+    // Delegates.
+    // Basically a delegate is a section {start_of_XXX} which content is
+    // collected and handled later by the delegate module.
+    // Note: type = "none" treats the section as a generic section,
+    // type = "omit" ignores the section.
+
+    "delegates" : {
+        "ly" : {
+            "config"   : "default", // or "none", or ...
+            // The preamble is a list of lines inserted before the lilipond data.
+            // This is a good place to set the version and global customizations.
+            "preamble" : [
+                "\\version \"2.24.3\"",
+                "\\header { tagline = ##f }",
+            ],
+        }
+     },
+
+    // Definitions for PDF output.
+    "pdf" : {
+      "theme" : {
+            // Forgeround color. Usually black.
+            "foreground"        : "black",
+            // Shades of grey.
+            // medium is used for pressed keys in keyboard diagrams.
+            "foreground-medium" : "grey70",
+            // light is used as background for comments, cell bars, ...
+            "foreground-light"  : "grey90",
+            // Background color. Usually none or white.
+            "background"        : "none",
+      },
+
+      // Space between columns, in pt.
+      "columnspace"  :  20,
+
+      // Page margins.
+      // Note that top/bottom exclude the head/footspace.
+      "margintop"    :  80,
+      "marginbottom" :  40,
+      "marginleft"   :  40,
+      "marginright"  :  40,
+      "headspace"    :  60,
+      "footspace"    :  20,
+
+      // Special: head on first page only, add the headspace to
+      // the other pages so they become larger.
+      "head-first-only" : false,
+
+      // Spacings.
+      // Baseline distances as a factor of the font size.
+      "spacing" : {
+            "title"  : 1.2,
+            "lyrics" : 1.2,
+            "chords" : 1.2,
+            "diagramchords" : 1.2,
+            "grid"   : 1.2,
+            "tab"    : 1.0,
+            "toc"    : 1.4,
+            "empty"  : 1.0,
+        },
+        // Note: By setting the font size and spacing for empty lines to
+        // smaller values, you get a fine(r)-grained control over the
+        // spacing between the various parts of the song.
+
+        // Style of chorus.
+        "chorus" : {
+            "indent"     :  0,
+            // Chorus side bar.
+            // Suppress by setting offset and/or width to zero.
+            "bar" : {
+                "offset" :  8,
+                "width"  :  1,
+                "color"  : "foreground",
+            }
+        },
+
+        // This opens a margin for margin labels.
+        "labels" : {
+            // Margin width. Default is 0 (no margin labels).
+            // "auto" will automatically reserve a margin if labels are used.
+            "width" : "auto",
+            // Alignment for the labels. Default is left.
+            "align" : "left",
+            // Alternatively, render labels as comments.
+            "comment" : ""        // "comment", "comment_italic" or "comment_box",
+        },
+
+        // Chord diagrams.
+        // A chord diagram consists of a number of cells.
+        // Cell dimensions are specified by "width" and "height".
+        // The horizontal number of cells depends on the number of strings.
+        // The vertical number of cells is "vcells", which should
+        // be 4 or larger to accomodate most chords.
+        // The horizontal distance between diagrams is "hspace" cells.
+        // The vertical distance is "vspace" cells.
+        // "linewidth" is the thickness of the lines as a fraction of "width".
+        // Diagrams for all chords of the song can be shown at the
+        // "top", "bottom" or "right" side of the first page,
+        // or "below" the last song line.
+        "diagrams" : {
+            "show"     :  "right",
+            "width"    :  6,      // width of a cell
+            "height"   :  6,      // height of a cell
+            "vcells"   :  4,      // vertical cells
+            "linewidth" : 0.1,    // fraction of cell width
+            "nutwidth" :  5,      // width (in linewidth) of the top nut
+            "hspace"   :  3.95,   // fraction of width
+            "vspace"   :  3,      // fraction of height
+            "dotsize"  :  0.8,    // fraction of a cell
+            "barwidth" :  0.8,    // fraction of a dot
+            "fingers"  :  false,   // show fingering if available (or "below")
+        },
+
+        // Grid section lines.
+        // Suppress when "show" is false, e.g. for singers.
+        // The width and colour of the cell bar lines can be specified.
+        // Enable by setting the width to the desired width.
+        "grids" : {
+            "cellbar" : {
+                "width" : 0,
+                "color" : "foreground-medium",
+            },
+            "show": true,
+            "symbols" : {
+                "color" : "blue",
+            },
+            "volta" : {
+                "span" : 0.7,
+                "color" : "blue",
+            },
+        },
+
+        // Even/odd pages. A value of -1 denotes first page right.
+        "even-odd-pages" : -1,
+        // Align songs to even/odd pages. When greater than 1, force alignment.
+        "pagealign-songs" : 1,
+        // PDF file to add as front matter.
+        "front-matter" : "",
+        // PDF file to add as back matter.
+        "back-matter" : "",
+
+        // Formats.
+        // Pages have two title elements and one footer element. They also
+        // can have a page of an existing PDF file as underlay (background).
+        // Topmost is "title". It uses the "title" font as defined further below.
+        // Second is "subtitle". It uses the "subtitle" font.
+        // The "footer" uses the "footer" font.
+        // All elements can have three fields, that are placed to the left side,
+        // centered, and right side of the page.
+        // The contents of all fields is defined below. You can use metadata
+        // items in the fields as shown. By default, the "title" element shows the
+        // value of metadata item "title", centered on the page. Likewise
+        // "subtitle".
+        // NOTE: The "title" and "subtitle" page elements have the same names
+        // as the default metadata values which may be confusing. To show
+        // metadata item, e.g. "artist", add its value to one of the
+        // title/subtitle fields. Don't try to add an artist page element.
+
+        "formats" : {
+            // Titles/Footers.
+
+            // Titles/footers have 3 parts, which are printed left,
+            // centered and right.
+            // For odd/even printing, the 1st background page is used
+            // for left pages and the next page (if it exists) for right pages.
+            // For even/odd printing, the order is reversed.
+
+            // By default, a page has:
+            "default" : {
+                "title"     : [ "", "", "" ],
+                "subtitle"  : [ "", "", "" ],
+                "footer"    : [ "%{title}", "%{subtitle}", "%{page}" ],
+                "background" : "",
+            },
+            
+            // The first page of a song has:
+            "title" : {
+                "title"     : [ "", "", "%{title}" ],
+                "subtitle"  : [ "", "", "%{artist}" ],
+                "footer"    : [ "%{title}", "%{subtitle}", "%{page}" ],
+                "background" : ""
+            },
+		    // The very first output page is slightly different:
+            "first" : {
+              "background" : ""
+            },
+        },
+
+        "fontdir" : ["c:\\windows\\fonts"],
+        "fontconfig" : {
+            "times, serif" : {
+                ""            : "georgia.ttf",
+                "bold"        : "georgiab.ttf",
+                "italic"      : "georgiai.ttf",
+                "bolditalic"  : "georgiaz.ttf",
+            },
+            "sans, sans-serif" : {
+                ""            : "OpenSans-Regular.ttf",
+                "bold"        : "OpenSans-Bold.ttf",
+                "italic"      : "OpenSans-Italic.ttf",
+                "bolditalic"  : "OpenSans-BoldItalic.ttf",
+            },
+            "courier, mono, monospace" : {
+                ""            : "Courier",
+                "bold"        : "Courier-Bold",
+                "italic"      : "Courier-Italic",
+                "bolditalic"  : "Courier-BoldItalic",
+            }
+        },
+        // "fonts" maps output elements to fonts as defined in "fontconfig".
+        // The elements can have a background colour associated.
+        // Colours are "#RRGGBB" or predefined names like "black", "white",
+        // and lots of others.
+        // NOTE: In the built-in config we use only "name" since that can
+        // be overruled with user settings.
+
+        "fonts" : {
+            "title" : {
+                "description" : "sans bold 14"
+            },
+            "subtitle" : {
+                "description" : "sans 12"
+            },
+            "footer" : {
+                "description" : "sans 8"
+            },
+            "text" : {
+                "description" : "serif 10"
+            },
+            "chord" : {
+                "description": "sans bold 10"
+            },
+            "annotation" : {
+                "description" : "serif italic 8"
+            },
+            "comment" : {
+                "description" : "sans 10",
+                "background" : "foreground-light"
+            },
+            "comment_italic" : {
+                "description" : "sans italic 10"
+            },
+            "comment_box" : {
+            "description" : "sans 10",
+                "frame" : 1
+            },
+            "tab" : {
+                "description" : "mono 10"
+            },
+            "label" : {
+                "description" : "serif bolditalic 10",
+            },
+            "toc" : {
+                "description" : "serif 10"
+            },
+            "grid" : {
+                "description" : "sans bold 10"
+            },
+        },
+
+        // Element mappings that can be specified, but need not since
+        // they default to other elements.
+        // subtitle       --> text
+        // chorus         --> text
+        // comment        --> text
+        // comment_italic --> chord
+        // comment_box    --> chord
+        // annotation     --> chord
+        // toc            --> text
+        // grid           --> chord
+        // grid_margin    --> comment
+        // footer         --> subtitle @ 60%
+        // empty          --> text
+        // diagram        --> comment
+        // diagram_base   --> text (but at a small size)
+
+    },
+
+}
+// End of config.
