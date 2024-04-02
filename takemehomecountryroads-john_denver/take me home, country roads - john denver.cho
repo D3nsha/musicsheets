@@ -1,12 +1,12 @@
 {title: Take Me Home, Country Roads}
-{subtitle: v1.0 Key: F (original Key: A), Tempo: 92 BPM }
+{subtitle: v1.1 Key: F (original Key: A), Tempo: 92 BPM }
 {artist: John Denver}
 {duration: 3:52}
 {key: F}
 {tempo: 92}
 
 {c: Intro}
-{image: src="takemehomecountryroads-1.png" width=90%}
+{image: src="takemehomecountryroads-1.png" width=100% align=right}
 
 {sov: Verse 1}
 [F]  Almost Heaven[Dm], West Virginia[C], Blue Ridge Mountains, [Bb]Shenandoah [F]River.
@@ -15,7 +15,7 @@
 
 {soc: Chorus}
 Country [F]Roads, take me [C]home, [A7]to the [Dm]place I be[Bb]long
-West Vir[F]ginia, mountain [Eb]mama, take me [Bb]home, [C]country [F]roads.  [F]- [*(Start Banjo)] - - - 
+West Vir[F]ginia, mountain [Eb]mama, take me [Bb]home, [C]country [F]roads.  [F]- - - - 
 {eoc}
 
 {sov: Verse 2}
@@ -29,7 +29,7 @@ West Vir[F]ginia, mountain [Eb]mama, take me [Bb]home, [C]country [F]roads.
 {eoc}
 
 {c: Solo}
-{image: src="takemehomecountryroads-2.png" width=90% title=Solo}
+{image: src="takemehomecountryroads-2.png" width=100% align=right}
 
 {sov: Bridge}
 [Dm] I hear her [C7]voice, in the [Bbmaj7]mornin' hour she [F]calls me.
@@ -40,14 +40,15 @@ And [Dm]drivin' down the [Eb]road I get a [Bb]feelin' that I [F]should have been
 
 {soc: Chorus a capella}
 Country [F]Roads, take me [C]home, [A7]to the [Dm]place I be[Bb]long
-West Vir[F]ginia, mountain [Eb]mama, take me [Bb][*(Resume strumming)]home, [C]country [F]roads.
+West Vir[F]ginia, mountain [Eb]mama, take me [Bb][*(Resume strumming)]home, 
+[C]country [F]roads.
 {eoc}
 
 {soc: Chorus}
 Country [F]Roads, take me [C]home, [A7]to the [Dm]place I be[Bb]long
-West Vir[F]ginia, mountain [Eb]mama, take me [Bb]home, [C] {Hold}
+West Vir[F]ginia, mountain [Eb]mama, take me [Bb]home, [C][*(single strum)]
 {Hold for 3}      [*N.C.]Country roads!
 {eoc}
 
 {c: Outro}
-{image: src="takemehomecountryroads-3.png" width=90%}
+{image: src="takemehomecountryroads-3.png" width=100% align=right}
