@@ -1,0 +1,51 @@
+{title: Black Magic Woman}
+{artist: Santana/Fleetwood Mac}
+{subtitle: v1 Key: Dm, Tempo: 124 BPM}
+{tempo: 124}
+{key: Dm}
+{duration: 3:06}
+{time: 4/4}
+
+{start_of_grid:Intro}
+|: Dm . | Dm . | Dm . | Dm . :| Repeat 4 times
+{end_of_grid}
+
+{start_of_grid:Intro part 2}
+|| Dm . | Dm . | Dm . | Dm . |
+| Dm . | Dm . | Dm . | Dm . ||
+{end_of_grid}
+
+{start_of_grid:Intro part 3}
+|| Dm . | A7 . | A7 . | Dm . |
+| Dm . | A7 . | A7 . | Dm . ||
+{end_of_grid}
+
+{start_of_grid:Solo 1}
+|| Dm . | Dm . | A7 . | A7 . |
+| Dm . | Dm . | Gm . | Gm . |
+| Dm . | A7 . | Dm . | Dm . ||
+{end_of_grid}
+
+{sov:Verse 1}
+[*(N.C.)]I got a black magic [Dm]woman, I got a black magic [A7]woman
+I got a [Dm]black magic woman got me so blind I can't [Gm]see
+That she's a [Dm]black magic woman she's [A7]tryin' to make a devil out of [Dm]me
+{eov}
+
+{sov:Verse 2}
+[*(N.C.)]Don't turn your back on me [Dm]baby, Don't turn your back on me [A7]baby
+Yes, don't turn your [Dm]back on me baby, stop messin' around with your [Gm]tricks
+Don't turn your [Dm]back on me baby you [A7]just might pick up my [Dm]magic sticks
+{eov}
+
+{start_of_grid:Solo 2}
+|: Dm . | Dm . | A7 . | A7 . |
+| Dm . | Dm . | Gm . | Gm . |
+| Dm . | A7 . | Dm . | Dm . :| 
+{end_of_grid}
+
+{sov:Verse 3}
+[Dm]Got your spell on me baby, got your spell on me [A7]baby
+Got your spell on me [Dm]baby turnin' my heart into [Gm]stone
+I [Dm]need you so bad [A7]magic woman I can't leave you [Dm]alone
+{eov}

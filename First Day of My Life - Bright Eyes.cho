@@ -1,0 +1,71 @@
+{title: First Day of My Life}
+{artist: Bright Eyes}
+{subtitle: v1 Key: F (original Key: E), Tempo: 95 BPM }
+{key: F}
+{time: 4/4}
+{duration: 3:08}
+{tempo: 95}
+
+{define: Gmadd9 base-fret 1 frets 3 2 3 0}
+{define: Bbadd9 base-fret 1 frets 3 2 1 3}
+{define: Bbm base-fret 5 frets 2 1 2 4 }
+
+{sov:Intro}
+[F] [A] [Dm] [Bbadd9] [C] [F]
+[F] [A] [Dm] [Bbadd9] [C] [F]
+{eov}
+
+{sov:Verse 1}
+[F]This is the [A]first day of my [Dm]life
+[Bb]Swear I was [C]born right in the [F]doorway
+[F]I went out in the [A]rain, suddenly everything [Dm]changed
+They're spreading [G7]blankets on the [C]beach  [C7]
+{eov}
+
+{sov:Verse 2}
+[F]Yours is the [A]first face that I [Dm]saw
+[Bb]Think I was [C]blind before I [F]met you
+[F]Don't know where I [A]am, don't know where I've [Dm]been
+But I know [G7]where I want to [C]go  [C7]
+{eov}
+
+{start_of_bridge}
+So I [F]thought I'd [C]let you [Dm]know
+That [Bb]these things take fore[C]ver
+I es[F]pecial[C]ly am [Dm]slow
+But I [Gm]realise that I need you and I 
+wondered if I could come [F]home [Asus4] [Dm] [Gmadd9] [Bbm]
+{end_of_bridge}
+
+{sov:Verse 3}
+[F]I remember the [A]time you drove all [Dm]night
+[Bb]Just to [C]meet me in the [F]morning
+[F]I thought it was [A]strange, you said everything [Dm]changed
+You felt as [G7]if you'd just woke [C]up  [C7]
+{eov}
+
+{sov:Verse 4}
+And you said, [F]"This is the [A]first day of my [Dm]life.
+[Bb]I'm glad I did[C]n't die be[F]fore I met you.
+[F]Now I don't [A]care, I could go any[Dm]where with you,
+And I'd [G7]probably be hap[C]py." [C7]
+{eov}
+
+{start_of_bridge}
+So if you [F]want to [C]be with [Dm]me
+With [Bb]these things there's no [C]telling
+We'll just [F]have to [C]wait and [Dm]see
+But I'd rather be [Gm]working for a paycheck 
+than waiting to win the lotte[F]ry [Asus4] [Dm]
+Besides, may[Gm]be this time its different,
+I mean I really think you like [F]me [Asus4] [Dm] [Gmadd9] [Bbm]
+{end_of_bridge}
+
+{soc: Outro}
+[F] [Asus4] [Dm] [Gmadd9] [Bbm]
+...
+[F]
+...
+{eoc}
+
+
