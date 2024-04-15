@@ -1,0 +1,70 @@
+{title: Tie a Yellow Ribbon 'Round the Old Oak Tree}
+{artist: Tony Orlando and Dawn}
+{subtitle: v1 Key: F, Tempo: 180}
+{key: F}
+{time: 4/4}
+{tempo: 180}
+{duration: 3:26}
+
+{define-ukulele: Dbaug base-fret 1 frets 2 1 1 0}
+
+
+{start_of_grid: Intro}
+| F . | F . | Am . | Am . |
+| Gm . | Gm . | C7 . | C7 . |
+{end_of_grid}
+
+{sov:Verse 1}
+[F]I'm coming home, I've done my [Am]time,
+Now I've [Cm]got to know what [D7]is and isn't [Gm]mine.
+If you received my [Bbm]letter telling [Dm]you I'd soon be free,
+[G7]Then you'll know just what to do [Bbm]if you still want [C7]me,
+...[Bbm]If you still want [C7]me...
+{eov}
+
+{soc:Chorus 1}
+Oh, [F]tie a yellow ribbon 'round the [Am]old oak tree,
+It's been [Cm]three long years, do you [D7]still want [Gm]me?
+If I don't see a [Bbm]ribbon 'round the [F]old [A7]oak [Dm]tree,
+I'll [F/C]stay on the bus, for[Dbaug]get about us, [Dm]put the blame on [D7]me,
+If [Gm]I don't see a [Bbm]yellow ribbon [Gm7]'round the [C7]old oak [*(F)]tree.
+{eoc}
+
+{start_of_grid:Link}
+| F . | Am . | Gm . | C7 . ||
+{end_of_grid}
+
+{sov:Verse 2}
+[F]  Bus driver, please, look for [Am]me,
+'Cause I [Cm]couldn't bear to [D7]see what I might [Gm]see.
+I'm really still in [Bbm]prison and my [Dm]love, she holds the key,
+A [G7]simple yellow ribbon's what I [Bbm]need to set me [C7]free.
+...I [Bbm]wrote and told her [C7]please...
+{eov}
+
+{soc:Chorus 2}
+Oh, [F]tie a yellow ribbon 'round the [Am]old oak tree,
+It's been [Cm]three long years, do you [D7]still want [Gm]me?
+If I don't see a [Bbm]ribbon 'round the [F]old [A7]oak [Dm]tree,
+I'll [F/C]stay on the bus, for[Dbaug]get about us, [Dm]put the blame on [D7]me,
+If [Gm]I don't see a [Bbm]yellow ribbon [Gm7]'round the [C7]old oak [*(F)]tree.
+{eoc}
+
+{start_of_grid: Instrumental}
+| F . | F . | Am . | Am . |
+| Cm . | D7 . | Gm . | C7 . |
+| F . | F . | Am . | Am . |
+| Cm . | D7 . | Gm . | Gm . ||
+{end_of_grid}
+
+{sov:Bridge}
+[*(Gm)]Now the [Gm7]whole damned bus is [Bbm]cheering
+And I [F]can't believe I [D7]see
+A [Gm]hundred yellow [Bbm]ribbons 'round the [Gm]old [C7]oak [F]tree
+{eov}
+
+{start_of_grid:Outro}
+|: F . | F . | Am . | Am . |
+| Cm . | D7 . | Gm . | C7 . :| repeat three 3 times
+| F . ||
+{end_of_grid}

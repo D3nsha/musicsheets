@@ -1,0 +1,86 @@
+{title:Go Your Own Way}
+{artist:Fleetwood Mac}
+{subtitle: v1 Key: F, Tempo: 132 BPM}
+{key: F}
+{tempo: 132}
+{time: 4/4}
+{duration: 3:43}
+
+{define-guitar: F5 base-fret 1 frets 1 3 3 x x x}
+{define-guitar: Fsus2 base-fret 3 frets x x 1 3 4 1 }
+{define-guitar: F base-fret 3 frets x x 1 3 4 3 }
+{define-guitar: C base-fret 3 frets x 1 3 3 3 1}
+{define-guitar: Bbsus2 base-fret 1 frets x 1 3 3 1 1}
+{define-guitar: Csus4 base-fret 3 frets x 1 3 3 4 1}
+
+{define-ukulele: F5 base-fret 5 frets 1 1 4 4 }
+{define-ukulele: F base-fret 3 frets 3 3 3 1 }
+{define-ukulele: Fsus2 base-fret 3 frets 3 3 1 1}
+{define-ukulele: Bbsus2 base-fret 1 frets 3 0 1 x }
+{define-ukulele: Csus4 base-fret 3 frets 3 3 1 1 }
+{define-ukulele: C base-fret 3 frets 3 2 1 1 }
+
+{start_of_grid:Intro}
+| F5 . | F5 . ||
+{end_of_grid}
+
+{sov:Verse 1}
+[Fsus2]    [F]Loving you [Fsus2]    [F]isn't 
+[Fsus2]the right [F]thing to do, [C][Csus4][C]
+[Bbsus2]    [Bb]How can I[Bbsus2]    
+[Bb] ever change [Bbsus2]    things [Bb]that I feel? [F][Fsus2]    [F]
+[Fsus2]    [F]If I could, [Fsus2]    
+[F]baby I'd [Fsus2]    give 
+[F]you my [C]world, [Csus4]    [C]
+[Bbsus2]    [Bb]How can I [Bbsus2]    
+[Bb]when you won't [Bbsus2]take it [Bb]from me?[F][Fsus2]    [F]
+{eov}
+
+{soc}
+[Dm]    You can [Bb]go your own way[C],
+(Go your own way)
+[Dm]    You can [Bb]call it ano[C]ther lonely day.
+[Dm]    You can [Bb]go your own way[C],
+Go your own way.
+{eoc}
+
+{sov:Verse 2}
+[Fsus2]    [F]Tell me why,[Fsus2] [F]
+[Fsus2]Everything [F]turned around, [C][Csus4]   [C]
+[Bbsus2]    [Bb]Packing up, [Bbsus2]    [Bb]shacking up's
+ [Bbsus2]all you [Bb]wanna do. [F][Fsus2]    [F]
+[Fsus2]    [F]If I could, [Fsus2]    [F]baby 
+I'd [Fsus2]give [F]you my world, [C] [Csus4] [C]
+[Bbsus2]    [Bb]Open up, [Bbsus2]
+[Bb]everything's [Bbsus2]waiting [Bb]for [F]you. [Fsus2]    [F]
+{eov}
+
+{soc:Chorus}
+[Dm]    You can [Bb]go your own way[C],
+(Go your own way)
+[Dm]    You can [Bb]call it ano[C]ther lonely day.
+[Dm]    You can [Bb]go your own way[C],
+Go your own way.
+{eoc}
+
+{start_of_grid:Guitar solo}
+| Fsus2 . F . | Fsus2 . F . | Fsus2 . F . | C . . . |
+| Bbsus2 . Bb . | Bbsus2 . Bb . | Bbsus2 . Bb . | F . . . |
+| Fsus2 . F . | Fsus2 . F . | Fsus2 . F . | C . . . |
+| Bbsus2 . Bb . | Bbsus2 . Bb . | Bbsus2 . Bb . | F . . . |
+{end_of_grid}
+
+{soc: Chorus}
+[Dm]    You can [Bb]go your own way[C],
+(Go your own way)
+[Dm]    You can [Bb]call it ano[C]ther lonely day.
+(Another lonely day)
+[Dm]    You can [Bb]go your own way[C],
+(Go your own way.)
+[Dm]    You can [Bb]call it anoth-[C]er lonely day.
+{eoc}
+
+
+{start_of_grid:Outro}
+|: Dm . | Bb . | C . | C . :| Repeat to fade
+{end_of_grid}

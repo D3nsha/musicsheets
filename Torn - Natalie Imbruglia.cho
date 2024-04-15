@@ -1,0 +1,117 @@
+{title: Torn}
+{artist: Natalie Imbruglia}
+{subtitle: v1 Key: F, Tempo: 96 BPM}
+{key: F}
+{time: 4/4}
+{tempo: 96}
+{duration: 4:04}
+
+{define-guitar: F5 base-fret 1 frets 1 3 3 x x x}
+{define-guitar: Fsus4 base-fret 1 frets x x 3 3 1 1}
+{define-guitar: F base-fret 1 frets 1 3 3 2 1 1}
+{define-guitar: Fsus2/4 base-fret 1 frets x x 3 3 1 3}
+{define-guitar: Am7 base-fret 1 frets x 0 2 0 1 0 }
+{define-guitar: Bb7 base-fret 1 frets x 1 3 1 3 1}
+{define-guitar: Dm base-fret 1 frets x x 0 2 3 1}
+{define-guitar: C base-fret 1 frets x 3 2 0 1 0}
+{define-guitar: Am base-fret 1 frets x 0 2 2 1 0}
+{define-guitar: Bb base-fret 1 frets x 1 3 3 3 x}
+{define-guitar: D5 base-fret 1 frets x x 0 2 3 x}
+
+{define-ukulele: F5 base-fret 5 frets 1 1 4 4}
+{define-ukulele: Fsus4 base-fret 3 frets 1 3 4 1}
+{define-ukulele: Fsus2/4 base-fret 1 frets 0 0 1 1}
+{define: Fsus2/4 base-fret 1 frets 0 0 1 1 }
+{define-ukulele: D5 base-fret 2 frets 1 1 4 4}
+
+{start_of_grid: Intro}
+| F5 . . . | Fsus4 . . . | F . . . | Fsus2/4 . . . ||
+{end_of_grid}
+
+{sov: Verse 1}
+[F]    I thought I saw a man brought to life,[Am7]
+He was warm, he came around like he was dig[Bb7]nified,
+He showed me what it was to cry.
+[F]    Well you couldn't be that man I ado[Am7]red,
+You don't seem to know,
+Don't seem to care what your [Bb7]heart is for,
+But I don't know him any more.
+{eov: Verse 1}
+
+{sov: Pre-chorus 1}
+There's [Dm]nothing where he used to lie,
+[C]    My conversation has run dry,
+[Am]    That's what's going on,
+[C]    Nothing's fine, [F]I'm torn.
+{eov: Pre-chorus 1}
+
+{soc: Chorus 1}
+[F]I'm all out of [C]faith,
+This is how I [Dm]feel,
+I'm cold and I am shamed[Bb],
+Lying naked on the [F]floor.
+Illusion never changed[C] into something [Dm]real,
+Wide awake and [Bb]I can see the perfect sky is [F]torn,
+You're a little [C]late,
+I'm already [Dm]torn.
+{eoc}
+
+{sov: Verse 2}
+[F]    So I guess the fortune teller's right.[Am7]
+I should have seen just what was there
+And not some [Bb7]holy light,
+But you crawled beneath my veins.
+{eov}
+
+{sov: Pre-chorus 2}
+And now [Dm]I don't care, I had no luck.
+[C]    I don't miss it all that much,
+[Am]    There's just so many things
+[C]    That I can search, I'm [F]torn.
+{eov}
+
+{soc: Chorus 2}
+[F]I'm all out of [C]faith,
+This is how I [Dm]feel,
+I'm cold and I am shamed[Bb],
+Lying naked on the [F]floor.
+Illusion never changed[C] into something [Dm]real,
+Wide awake and [Bb]I can see the perfect sky is [F]torn,
+You're a little [C]late,
+I'm already [Dm]torn.
+{eoc}
+
+{sov:Bridge}
+[Dm]Torn   [Bb]
+[D5]Oo, oo, [F]oo. ___[C]___
+{eov}
+
+{sov: Pre-chorus 3}
+There's [Dm]nothing where he used to lie,
+[C]    My inspiration has run dry,
+[Am]    That's what's going on,
+[C]    Nothing's right, I'm [F]torn.
+{eov}
+
+{soc: Chorus 3}
+[F]I'm all out of [C]faith,
+This is how I [Dm]feel,
+I'm cold and I am [Bb]shamed,
+Lying naked on the [F]floor.
+Illusion never changed[C] into something real[Dm],
+Wide awake and I[Bb] can see the perfect sky is [F]torn.
+{eoc}
+
+{soc: Chorus 4}
+[F]I'm all out of [C]faith,
+This is how I [Dm]feel,
+I'm cold and I am shamed[Bb],
+Lying naked on the [F]floor.
+Illusion never changed[C] into something [Dm]real,
+Wide awake and [Bb]I can see the perfect sky is [F]torn,
+You're a little [C]late,
+I'm already [Dm]torn... [Bb]
+[Dm]Torn...[C]
+{eoc}
+
+{c:Repeat Chorus ad lib, to fade}
