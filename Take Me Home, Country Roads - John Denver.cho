@@ -1,5 +1,5 @@
 {title: Take Me Home, Country Roads}
-{subtitle: v1.2b Key: F (original Key: A), Tempo: 92 BPM }
+{subtitle: v1.1 Key: F (original Key: A), Tempo: 92 BPM }
 {artist: John Denver}
 {duration: 3:52}
 {key: F}
@@ -25,7 +25,7 @@ West Vir[F]ginia, mountain [Eb]mama, take me [Bb]home, [C]country [F]roads.  [F]
 
 {soc: Chorus}
 Country [F]Roads, take me [C]home, [A7]to the [Dm]place I be[Bb]long
-West Vir[F]ginia, mountain [Eb]mama, take me [Bb]home, [C]country [(F)]roads.
+West Vir[F]ginia, mountain [Eb]mama, take me [Bb]home, [C]country [F]roads.
 {eoc}
 
 {c: Solo}
@@ -46,8 +46,8 @@ West Vir[F]ginia, mountain [Eb]mama, take me [Bb][*(Resume strumming)]home,
 
 {soc: Chorus}
 Country [F]Roads, take me [C]home, [A7]to the [Dm]place I be[Bb]long
-West Vir[F]ginia, mountain [Eb]mama, take me [Bb]home, [C][*(hold for 3)]
-     Country [(F)]roads!
+West Vir[F]ginia, mountain [Eb]mama, take me [Bb]home, [C][*(single strum)]
+{Hold for 3}      [*N.C.]Country roads!
 {eoc}
 
 {c: Outro}
