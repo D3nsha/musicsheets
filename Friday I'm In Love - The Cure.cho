@@ -1,0 +1,118 @@
+{title: Friday I'm In Love}
+{artist: The Cure}
+{key: D}
+{duration: 3:27}
+{time: 4/4}
+{tempo: 140}
+{subtitle: v1 Key: D, Tempo: 140 BPM}
+
+{define-guitar: Cadd9 base-fret 1 frets x 3 2 0 3 0 }
+{define-ukulele: Cadd9 base-fret 1 frets 0 2 0 3 }
+
+{start_of_grid: Intro}
+| G6 | D . | G . | D . | A . |
+| Bm . | G . | D . | A7 . ||
+{end_of_grid}
+
+{sov: Verse 1}
+[D]I don't care if [G]Monday's blue
+[D]Tuesday's grey and [A]Wednesday too
+[Bm]Thursday I don't [G]care about you
+It's [D]Friday, I'm in [A7]love
+{eov}
+
+{sov: Verse 2}
+[D]Monday you can [G]fall apart
+[D]Tuesday Wednesday [A]break my heart
+[Bm]Thursday doesn't [G]even start
+It's [D]Friday, I'm in [A7]love
+{eov}
+
+{soc:Chorus}
+[G]Saturday [A]wait
+And [Bm]Sunday always [G]comes too late
+But [D]Friday never [A]hesitate...
+{eoc}
+
+{sov:Verse 3}
+[D]I don't care if [G]Monday's black
+[D]Tuesday Wednesday [A]heart attack
+[Bm]Thursday never [G]looking back
+It's [D]Friday I'm in [A7]love
+{eov}
+
+{sot: Solo}
+  D                            G
+----------------------------|----------------------------|
+--2--0--2--0--2--0----------|-----7s----5L----------5----|
+--------------------2s-4L---|--4-------------------------|
+----------------------------|----------------------------|
+
+  D                            A
+--5-----5-----7--7-----4L---|--4--4--5--4--5--4--0--4L---|
+--5-----5-----5--5-----5----|----------------------------|
+--6-----6--------------4L---|--4-------------------------|
+----------------------------|----------------------------|
+
+  Bm                           G
+--4-----------12------------|--------------5-------------|
+--------10-------10---------|-----5-----3-----5--3--5----|
+-----11----11-------11------|----------------------------|
+-----------------------12L--|--12------------------------|
+
+  D                            A                            D
+--5-----5-----5--------4L---|--4--4--5--5--7--7--10-10---|--9--
+--5-----5-----5--5-----5L---|--5--5--7--7--9--9--12-12---|--10-
+----------------------------|----------------------------|--9--
+----------------------------|----------------------------|--11-
+{eot}
+
+{sov:Verse 4}
+[D]Monday you can [G]hold your head
+[D]Tuesday Wednesday [A]stay in bed
+Or [Bm]Thursday watch the [G]walls instead
+It's [D]Friday, I'm in [A7]love
+{eov}
+
+{soc:Chorus}
+[G]Saturday [A]wait
+And [Bm]Sunday always [G]comes too late
+But [D]Friday never [A]hesitate...
+{eoc}
+
+{sob:Bridge}
+[Bm]    Dressed up to the [Cadd9]eyes
+It's a wonderful sur[D]prise
+To see your [A]shoes and your spirits [Bm]rise
+Throwing out your [Cadd9]frown
+And just smile at the [D]sound
+As sleek as a [A]sheik
+Spinning round and [Bm]round
+Always take a big [Cadd9]bite
+It's such a gorgeous [D]sight
+To see you [A]eat in the middle of the [Bm]night
+You can never get e[Cadd9]nough
+Enough of this [D]stuff
+It's Friday, [A]I'm in love
+{eob}
+
+{sov: Verse 5}
+[D]I don't care if [G]Monday's blue
+[D]Tuesday's grey and [A]Wednesday too
+[Bm]Thursday I don't [G]care about you
+It's [D]Friday, I'm in [A7]love
+{eov}
+
+{sov: Verse 6}
+[D]I don't care if [G]Monday's blue
+[D]Tuesday's grey and [A]Wednesday too
+[Bm]Thursday I don't [G]care about you
+It's [D]Friday, I'm in [A7]love
+{eov}
+
+{start_of_grid: Outro}
+| D . | G . | D . | A . |
+| Bm . | G . | D . | A7 . ||
+| D . | G . | D . | A . |
+| Bm . | G . | D . | A . ||
+{end_of_grid}
