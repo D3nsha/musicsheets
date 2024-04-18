@@ -206,6 +206,7 @@
             },
 		    // The very first output page is slightly different:
             "first" : {
+              "footer"    : [ "%{title}", "%{subtitle}", "%{page}" ],
               "background" : ""
             },
         },
