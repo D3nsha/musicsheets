@@ -125,7 +125,7 @@
             "show"     :  "right",
             "width"    :  6,      // width of a cell
             "height"   :  6,      // height of a cell
-            "vcells"   :  4,      // vertical cells
+            "vcells"   :  5,      // vertical cells
             "linewidth" : 0.1,    // fraction of cell width
             "nutwidth" :  5,      // width (in linewidth) of the top nut
             "hspace"   :  3.95,   // fraction of width
