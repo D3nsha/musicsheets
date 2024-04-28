@@ -1,11 +1,10 @@
 {title: Mr. Brightside}
 {artist: The Killers}
 {key: C}
-{subtitle: v1 Key: C (Original Key:C#), Tempo: 148 BPM }
+{subtitle: v2 Key: C (Original Key:C#), Tempo: 148 BPM }
 {tempo: 148}
 {time: 4/4}
 {duration: 3:42}
-{define: Fsus2 base-fret 0 frets 0 0 1 3 }
 
 {start_of_grid: Intro}
 | C . . | C/B . . | F . . | F . . |
@@ -20,30 +19,30 @@ It was only a kiss, it was only a kiss
 
 {sov: Verse 2}
 [C]  Now I'm falling a-[C/B]sleep and she's calling a [F]cab
-While he's having a smoke and she's taking the [C]drag
+While he's having a smoke and she's taking a [C]drag
 [C]Now they're going to [C/B]bed and my stomach is [F]sick
-And it's all in my head but she's touching his [Am]chest now
-He takes off her [C]dress now
-Let me [F]go
+And it's all in my head but she's touching his 
 {eov}
 
-{sov: Pre-chorus 1}
-[Am]  I just can't look it's [C]killing me
+{sov:Pre-chorus 1}
+[Am]chest now, he takes off her [G]dress now
+Let me [F]go
+[Am]  I just can't look it's [G]killing me
 And [F]taking control.
 {eov}
 
 {soc: Chorus}
-[C]Jealousy, [Fsus2]turning saints in-[Am7]to the sea,
+[C]Jealousy, [F]turning saints in-[Am]to the sea,
 [G]Swimming through sick [C]lullabies,
-[Fsus2]choking on your [Am7]alibis.
+[F]choking on your [Am]alibis.
 [G]But it's just the [C]price I pay,
-[Fsus2]Destiny is [Am7]calling me,
-[G]Open up my [C]eager eyes[Fsus2],______
-[Am7]   ‘Cause I'm Mr. Br[G]ightside
+[F]Destiny is [Am]calling me,
+[G]Open up my [C]eager eyes[F],______
+[Am]   ‘Cause I'm Mr. Br[G]ightside
 {eoc}
 
 {start_of_grid: Link 1}
-|: C . . | Fsus2 . . | Am7 . . | G . . :|
+|: C . . | F . . | Am . . | G . . :|
 {end_of_grid}
 
 {sov: Verse 3}
@@ -63,10 +62,10 @@ As Chorus 1
 {eoc}
 
 {start_of_grid: Link 2}
-|: C . . | Fsus2 . . | Am7 . . | G . . :|
+|: C . . | F . . | Am . . | G . . :| Play twice
 {end_of_grid}
 
 {start_of_grid: Outro}
-|: C . . | Fsus2 . . | Am7 . . | G . . :| Play 4 times
+|: C . . | F . . | Am . . | G . . :| Play 4 times
 {end_of_grid}
 I never. ___________________________
