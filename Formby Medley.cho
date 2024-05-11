@@ -1,6 +1,6 @@
 {title: George Formby Medley}
 {artist: George Formby/Mike}
-{subtitle: v1b Key: C, Tempo: 135 BPM}
+{subtitle: v1.1b Key: C, Tempo: 135 BPM}
 {key: C}
 {time: 4/4}
 {tempo: 144}
@@ -72,6 +72,12 @@ If you [C]keep your uku[G7]lele in your [C]hand, yes [A7]son
 [C]Now it's a job that [C7]just suits me
 A [F]window cleaner [Cdim7]you would be
 If [C]you can see what I can see
+{textfont: times-bold}
+[Cdim7]When I'm cleaning [C]windows
+{textfont}
+[C]Honeymoonin' [C7]couples too
+[F]You should see them [Cdim]bill 'n coo
+You'd [C]be surprised at things they do
 {textfont: times-bold}
 [Cdim7]When I'm cleaning [C]windows
 {textfont}
