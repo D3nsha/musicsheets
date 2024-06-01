@@ -226,10 +226,10 @@
                 "bolditalic"  : "OpenSans-BoldItalic.ttf",
             },
             "courier, mono, monospace" : {
-                ""            : "Courier",
-                "bold"        : "Courier-Bold",
-                "italic"      : "Courier-Italic",
-                "bolditalic"  : "Courier-BoldItalic",
+                ""            : "RobotoMono-Regular.ttf",
+                "bold"        : "RobotoMono-Bold.ttf",
+                "italic"      : "RobotoMono-Italic.ttf",
+                "bolditalic"  : "RobotoMono-BoldItalic.ttf",
             }
         },
         // "fonts" maps output elements to fonts as defined in "fontconfig".
@@ -270,7 +270,7 @@
                 "frame" : 1
             },
             "tab" : {
-                "description" : "mono 10"
+                "description" : "mono 8"
             },
             "label" : {
                 "description" : "serif bolditalic 10",
