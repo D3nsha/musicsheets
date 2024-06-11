@@ -1,6 +1,6 @@
 {title: Torn}
 {artist: Natalie Imbruglia}
-{subtitle: v1 Key: F, Tempo: 96 BPM}
+{subtitle: v1.1 Key: F, Tempo: 96 BPM}
 {key: F}
 {time: 4/4}
 {tempo: 96}
@@ -24,9 +24,9 @@
 {define: Fsus2/4 base-fret 1 frets 0 0 1 1 }
 {define-ukulele: D5 base-fret 2 frets 1 1 4 4}
 
-{start_of_grid: Intro}
-| F5 . . . | Fsus4 . . . | F . . . | Fsus2/4 . . . ||
-{end_of_grid}
+{c: Intro}
+[F5]/ / / /   [Fsus4]/ / / /   [F]/ / / /   [Fsus2/4]/ / / /
+
 
 {sov: Verse 1}
 [F]    I thought I saw a man brought to life,[Am7]

@@ -1,14 +1,13 @@
 {title: Mr. Brightside}
 {artist: The Killers}
 {key: C}
-{subtitle: v2 Key: C (Original Key:C#), Tempo: 148 BPM }
+{subtitle: v2.1 Key: C (Original Key:C#), Tempo: 148 BPM }
 {tempo: 148}
 {time: 4/4}
 {duration: 3:42}
 
-{start_of_grid: Intro}
-| C . . | C/B . . | F . . | F . . |
-{end_of_grid}
+{c: Intro}
+[C]/ / / /   [C/B]/ / / /   [F]/ / / /   [F]/ / / /
 
 {sov: Verse 1}
 [C]  Coming out of my [C/B]cage and I've been doing just [F]fine,
@@ -41,9 +40,8 @@ And [F]taking control.
 [Am]   ‘Cause I'm Mr. Br[G]ightside
 {eoc}
 
-{start_of_grid: Link 1}
-|: C . . | F . . | Am . . | G . . :|
-{end_of_grid}
+{c: Link 1}
+|: [C]/ / / /   [F]/ / / /   [Am]/ / / /   [G]/ / / /  :|
 
 {sov: Verse 3}
 As Verse 1
@@ -61,11 +59,9 @@ As Pre-chorus 1
 As Chorus 1
 {eoc}
 
-{start_of_grid: Link 2}
-|: C . . | F . . | Am . . | G . . :| Play twice
-{end_of_grid}
+{c: Link 2}
+|: [C]/ / / /   [F]/ / / /   [Am]/ / / /   [G]/ / / /  :| play twice
 
-{start_of_grid: Outro}
-|: C . . | F . . | Am . . | G . . :| Play 4 times
-{end_of_grid}
+{c: Outro}
+|: [C]/ / / /   [F]/ / / /   [Am]/ / / /   [G]/ / / /  :| play four times
 I never. ___________________________

@@ -1,15 +1,14 @@
 {title: The Cave}
 {artist: Mumford & Sons}
-{subtitle: v1 Key: Dm (Original Key: C#m), Tempo: 135 BPM}
+{subtitle: v1.1 Key: Dm (Original Key: C#m), Tempo: 135 BPM}
 {key: Dm}
 {time: 4/4}
 {tempo: 144}
 {duration: 4:04}
 
-{start_of_grid:Intro}
-| Dm . . | F . . | Dm . . | F . . |
-| Dm . . | F . C | F . Bb | F . . |
-{end_of_grid}
+{c:Intro}
+[Dm]/ / / /   [F]/ / / /   [Dm]/ / / /   [F]/ / / /
+[Dm]/ / / /   [F]/ / [C]/ /   [F]/ / [Bb]/ /   [F]/ / / / 
 
 {start_of_verse:Verse 1}
 [(F)]It's empty in the [Dm]valley of your [F]heart,
@@ -31,10 +30,9 @@ And [Dm]I will [Bb]change my [F]ways,
 I'll [Bb]know my [F]name as it's [C]called again.
 {end_of_chorus}
 
-{start_of_grid:Link 1}
-| Dm . . | F . . | Dm . . | F . . |
-| Dm . . | F . C | F . Bb | F . . ||
-{end_of_grid}
+{c:Link 1}
+[Dm]/ / / /   [F]/ / / /   [Dm]/ / / /   [F]/ / / /
+[Dm]/ / / /   [F]/ / [C]/ /   [F]/ / [Bb]/ /   [F]/ / / / 
 
 {start_of_verse:Verse 2}
 [(F)]'Cause I have other [Dm]things to fill my [F]time,
@@ -48,7 +46,12 @@ And de-[F]spite my [C]growing [F]fears.   [Bb]  [F]
 {end_of_verse}
 
 {start_of_chorus: Chorus 2}
-As Chorus 1
+[F]But I will [Bb]hold on [F]hope
+And I won't [Bb]let you [F]choke
+[Bb]On the [F]noose a-[C]round your neck.
+And [Dm]I'll find [Bb]strength in [F]pain
+And [Dm]I will [Bb]change my [F]ways,
+I'll [Bb]know my [F]name as it's [C]called again.
 {end_of_chorus}
 
 {start_of_verse: Verse 3}
@@ -67,9 +70,8 @@ And [Dm]I need [Bb]to know [F]how
 To [Bb]live my [F]life as it's [C]meant to be.
 {end_of_chorus}
 
-{start_of_grid:Instrumental}
-|: F . . | Bb . F | F . . | Bb . F | Bb . F | C . . :|
-{end_of_grid}
+{c:Instrumental}
+[F]/ / / /   [Bb]/ / [F]/ /   [F]/ / / /   [Bb]/ / [F]/ /   [Bb]/ / [F]/ /   [C]/ / / /   x2
 
 {start_of_chorus:Chorus 4}
 [F]And I will [Bb]hold on [F]hope

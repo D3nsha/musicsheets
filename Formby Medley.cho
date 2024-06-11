@@ -1,30 +1,25 @@
 {title: George Formby Medley}
 {artist: George Formby/Mike}
-{subtitle: v1.1b Key: C, Tempo: 135 BPM}
+{subtitle: v1.3b Key: C, Tempo: 135 BPM}
 {key: C}
 {time: 4/4}
 {tempo: 144}
 {duration: 4:04}
 
-{start_of_verse:Banjo solo}
+{c: Banjo alone}
 I'm [C]leaning on a [G7]lamp, I know I look just like a [C]tramp,
 Or you may [D7]think I'm hanging round to steal a [G7]car.
 But [C]no, I'm not a [G7]crook, and if you think that's what I [C]look,
 I'll tell you [D7]why I'm here and what my motives [G7]are.
-{end_of_verse}
 
-{start_of_verse: All together}
+{c: All playing}
 [C]I'm leaning on the lamppost at the [Am]corner of the street
 In case a [G]certain little lady comes [C]by.
-{textfont: times-bold}
-Oh [G]me, oh [C]my, [Am]
-{textfont}
+* Oh [G]me, oh [C]my, [Am]
 I [D7]hope the little lady comes [G7]by.
 I [C]don't know if she'll get away, she [Am]doesn't always get away,
 But [G]anyhow I know that she'll [C]try,
-{textfont: times-bold}
-Oh [G]me, oh [C]my, [Am]
-{textfont}
+* Oh [G]me, oh [C]my, [Am]
 I [D7]hope the little lady comes [G7]by.
 [G7]There's no other girl I could [Dm]wait for,
 But [C]this one I'd break any [Am]date for,
@@ -34,56 +29,43 @@ Oh she's [C]absolutely beautiful and [Am]marvelous and wonderful
 And [G]anyone can understand [C]why,  [C7]
 I'm [F]leaning on a [Cdim7]lamppost at the [C]corner of the [A7]street,
 In case a [D7]certain little [G7]lady passes [C]by.
-{end_of_verse}
 
-{start_of_grid:Banjo solo}
-| G7 . . |
-{end_of_grid}
+{c: Banjo solo}
+[G7]/ / / /
 
-{start_of_verse: All together}
+{c: All playing}
 [C]Now everybody's [G7]got a crazy notion of their [C]own[C7]
 Some [F]like to [Cdim7]mix up [C]with a crowd, some [D7]like to be [G7]alone
 It's [F]no one else's [Cdim7]business as [C]far as I can see
 But [D7]every time that I go out the people stare at [G7]me [*(stop)]
-{end_of_verse}
 
-{start_of_verse: All together}
+{c: All playing}
 With my [C]little ukulele in my [C7]hand, of [F] course the people do not [C]understand
-{textfont: times-bold}
-Some [G7]say "Why don't you be a scout, [C]why don't you read a book?"
-{textfont}
+* Some [G7]say "Why don't you be a scout, [C]why don't you read a book?"
 Cos [D7]I get lots more pleasure when I'm playing with my [G7]uke.
 Of [C]course I take no [E7]notice you can [Am]tell  [C7]
 For [F]mother's sound advice will always stand[Em][G7]
-{textfont: times-bold}
-She said [C]"My boy do what I [E7]say and you'll [A7]never go as[Dm]tray
-If you [C]keep your uku[G7]lele in your [C]hand, yes [A7]son
-[D7]Keep your uku[G7]lele in your [C]hand."
-{textfont}
-{end_of_verse}
+* She said [C]"My boy do what I [E7]say and you'll [A7]never go as[Dm]tray
+* If you [C]keep your uku[G7]lele in your [C]hand, yes [A7]son
+* [D7]Keep your uku[G7]lele in your [C]hand."
 
-{start_of_grid:Banjo solo}
-|| C . . | A7 . . | D7 . . | G7 . . | C . . ||
-{end_of_grid}
+{c: Banjo solo}
+[C]/ / / /  [A7]/ / / /  [D7]/ / / /  [G7]/ / / /  [C]/ / / /
 
-{start_of_verse: All together}
+
+{c: All playing}
 [C]Now I go window cleaning to [D7]earn an honest bob
 [G7]For a nosy parker it's an interesting [C]job
 [C]Now it's a job that [C7]just suits me
 A [F]window cleaner [Cdim7]you would be
 If [C]you can see what I can see
-{textfont: times-bold}
-[Cdim7]When I'm cleaning [C]windows
-{textfont}
+* [Cdim7]When I'm cleaning [C]windows
 [C]Honeymoonin' [C7]couples too
 [F]You should see them [Cdim]bill 'n coo
 You'd [C]be surprised at things they do
-{textfont: times-bold}
-[Cdim7]When I'm cleaning [C]windows
-{textfont}
-{end_of_verse}
+* [Cdim7]When I'm cleaning [C]windows
 
-{start_of_verse: All together}
+{c: All playing}
 [C]In [E7]my profession I'll work hard
 [A7]But I'll never stop
 I'll [D7]climb this blinkin' ladder
@@ -91,13 +73,9 @@ Till I [G7]get[*(stop)] right to the top
 The [C]blushin' bride, she [C7]looks divine
 The [F]bridegroom he is [Cdim7]doin' fine
 I'd [C]rather have his job than mine
-{textfont: times-bold}
-[Cdim7]When I'm cleaning windows
-{end_of_verse}
+* [Cdim7]When I'm cleaning windows
 
-{start_of_grid: Banjo solo}
-| C . . | C7 . . | F . . | Cdim . . | C . . |
-{end_of_grid}
+{c: Banjo solo}
+[C]/ / / /  [C7]/ / / /  [F]/ / / /  [Cdim]/ / / /  [C]/ / / /
 
-{textfont: times-bold}
-[Cdim7]When I'm cleaning [C]windows   [G7] [C]
+*[Cdim7]When I'm cleaning [C]windows   [G7] [C]

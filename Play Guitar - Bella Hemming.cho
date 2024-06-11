@@ -1,5 +1,5 @@
 {title: Play Guitar}
-{subtitle: v1 Key: F, Tempo: 85 BPM }
+{subtitle: v1.1 Key: F, Tempo: 85 BPM }
 {artist: Bella Hemming}
 {tempo: 85}
 {key: F}
@@ -10,9 +10,8 @@
 {define: C9 base-fret 1 frets 0 0 1 1}
 {define: Am base-fret 1 frets 4 5 0 0}
 
-{start_of_grid:Intro}
-| F . . | Am . . | Gm . . | Bbmaj7 . Bbadd9 . |
-{end_of_grid}
+{c:Intro}
+[F]/ / / /   [Am]/ / / /   [Gm]/ / / /   [Bbmaj7]/ / [Bbadd9]/ /
 
 {sov:Verse 1}
 [F]So you really like her and you [Am]want to win her heart
@@ -68,7 +67,6 @@ The [Gm]girls are gonna love you if you
 They'll be [Bbmaj7]head over heels  [Bbadd9]
 Just [F]strum a few chords together, [Am]and her heart will be yours fore[Gm]ver
 She might [Bbmaj7]love you if you [C9]learn to play gui[F]tar  [Am]     [Gm]
-
 {eoc}
 
 {sov:Outro}

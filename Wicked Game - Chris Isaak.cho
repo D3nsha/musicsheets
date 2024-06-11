@@ -1,14 +1,13 @@
 {title: Wicked Game}
 {artist: Chris Isaak}
-{subtitle: v1, Key: Bm, Tempo: 115}
+{subtitle: v1.1, Key: Bm, Tempo: 115}
 {tempo: 115}
 {time: 4/4}
 {duration: 4:40}
 {key: Bm}
 
-{start_of_grid: Intro }
-| Bm . | A . | E . | E . | x4
-{end_of_grid}
+{c: Intro}
+[Bm]/ / / /   [A]/ / / /   [E]/ / / /   [E]/ / / / x4
 
 {start_of_verse:Verse 1}
 The [Bm]world was on fire 
@@ -59,9 +58,8 @@ No, [Bm]I _____
 [E](this world is only gonna break your heart)
 {end_of_chorus}
 
-{start_of_grid:Solo}
-|: Bm . | A . | E . | E . :| x4
-{end_of_grid}
+{c:Solo}
+[Bm]/ / / /   [A]/ / / /   [E]/ / / /   [E]/ / / / x4
 
 {start_of_verse:Verse 1}
 The [Bm]world was on fire 
@@ -90,8 +88,7 @@ With you [Bm]   [A]
 [E](This world is only gonna break your heart)
 {end_of_chorus}
 
-{start_of_grid:Outro}
-|: Bm . | A . | E . | E . :| x2
-{end_of_grid}
+{c:Outro}
+[Bm]/ / / /   [A]/ / / /   [E]/ / / /   [E]/ / / / x2
 
 [Bm]  Nobody[A] loves no [E]one

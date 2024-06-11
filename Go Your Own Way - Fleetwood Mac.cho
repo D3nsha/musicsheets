@@ -1,6 +1,6 @@
 {title:Go Your Own Way}
 {artist:Fleetwood Mac}
-{subtitle: v1 Key: F, Tempo: 132 BPM}
+{subtitle: v1.1 Key: F, Tempo: 132 BPM}
 {key: F}
 {tempo: 132}
 {time: 4/4}
@@ -20,9 +20,9 @@
 {define-ukulele: Csus4 base-fret 3 frets 3 3 1 1 }
 {define-ukulele: C base-fret 3 frets 3 2 1 1 }
 
-{start_of_grid:Intro}
-| F5 . | F5 . ||
-{end_of_grid}
+{start_of_verse:Intro}
+[F5]/ / / /    [F5]/ / / /
+{end_of_verse}
 
 {sov:Verse 1}
 [Fsus2]    [F]Loving you [Fsus2]    [F]isn't 
@@ -63,12 +63,12 @@ I'd [Fsus2]give [F]you my world, [C] [Csus4] [C]
 Go your own way.
 {eoc}
 
-{start_of_grid:Guitar solo}
-| Fsus2 . F . | Fsus2 . F . | Fsus2 . F . | C . . . |
-| Bbsus2 . Bb . | Bbsus2 . Bb . | Bbsus2 . Bb . | F . . . |
-| Fsus2 . F . | Fsus2 . F . | Fsus2 . F . | C . . . |
-| Bbsus2 . Bb . | Bbsus2 . Bb . | Bbsus2 . Bb . | F . . . |
-{end_of_grid}
+{start_of_verse:Guitar solo}
+[Fsus2]/ / [F]/ /    [Fsus2]/ / [F]/ /    [Fsus2]/ / [F]/ /    [C]/ / / /
+[Bbsus2]/ / [Bb]/ /    [Bbsus2]/ / [Bb]/ /    [Bbsus2]/ / [Bb]/ /    [F]/ / / /
+[Fsus2]/ / [F]/ /    [Fsus2]/ / [F]/ /    [Fsus2]/ / [F]/ /    [C]/ / / /
+[Bbsus2]/ / [Bb]/ /    [Bbsus2]/ / [Bb]/ /    [Bbsus2]/ / [Bb]/ /    [F]/ / / /
+{end_of_verse}
 
 {soc: Chorus}
 [Dm]    You can [Bb]go your own way[C],
@@ -81,6 +81,6 @@ Go your own way.
 {eoc}
 
 
-{start_of_grid:Outro}
-|: Dm . | Bb . | C . | C . :| Repeat to fade
-{end_of_grid}
+{start_of_verse:Outro}
+|: [Dm]/ / / /    [Bb]/ / / /    [C]/ / / /    [C]/ / / /    :| Repeat to fade
+{end_of_verse}
