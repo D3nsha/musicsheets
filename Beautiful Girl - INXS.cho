@@ -1,7 +1,7 @@
 
 {title: Beautiful Girl}
 {artist: INXS}
-{subtitle: v1 Key: C (Original Key: B), Tempo: 120}
+{subtitle: v2 Key: C (Original Key: B), Tempo: 120}
 {key: F}
 {tempo: 120}
 {duration:3:25}
@@ -49,7 +49,7 @@
 {eov}
 
 {soc:Chorus 1}
-[G] Beautiful [Am]girl (stay with [F]me) [C]  [G]   [C]
+[G] Beautiful [Am]girl (stay with [F]me) [C]  [C/D]   [C]
 [G] Beautiful [Am]girl (stay with [F]me)
 [Dm]   She wanna go [F]home (home, home, home)
 {eoc}
@@ -59,18 +59,21 @@
 [C] Neon [F]ghosts in the city,[C] and she [F]says
 stay with [C]me  [F] Stay with [C]me    [F] 
 Stay with [C]me  [F] Stay with [C]me    [F]
-[Am]      [Em]     [Am]      [Em]     
+{eov}
+
+{start_ of_verse:Bridge}
+[Am]/ / / /     [Em]/ / / /     [Am]/ / / /      [Em]/ / / /     
 ([F]Stay with [G]me,   [F] Stay with [G]me)
 {eov}
 
-{sov:Verse 3}
+{sov:Verse 3}  
 [C]She's so sc[F]ared, s[C]o very fr[F]ightened
 [C]Anything can [F]happen,[C] right here ton[F]ight
 {eov}
 
 {soc: Chorus}
-[G] Beautiful [Am]girl (stay with [F]me) [C]  [C/D]   [C]
-[G] Beautiful [Am]girl (stay with [F]me) [C]  [C/D]   [C]
+[G] Beautiful [Am]girl (stay with [F]me) [C]   [C/D]    [C]
+[G] Beautiful [Am]girl (stay with [F]me) [C]   [C/D]    [C]
 [Dm] She wanna go [F]home (home, home, home)
 {eoc}
 
