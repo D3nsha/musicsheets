@@ -1,6 +1,6 @@
 {title: Tie a Yellow Ribbon 'Round the Old Oak Tree}
 {artist: Tony Orlando and Dawn}
-{subtitle: v1.1 Key: F, Tempo: 180}
+{subtitle: v1 Key: F, Tempo: 180}
 {key: F}
 {time: 4/4}
 {tempo: 180}
@@ -9,10 +9,10 @@
 {define-ukulele: Dbaug base-fret 1 frets 2 1 1 0}
 
 
-{c: Intro}
-[F]/ / / /   [F]/ / / /   [Am]/ / / /   [Am]/ / / /
-[Gm]/ / / /   [Gm]/ / / /   [C7]/ / / /   [C7]/ / / /
-
+{start_of_grid: Intro}
+| F . | F . | Am . | Am . |
+| Gm . | Gm . | C7 . | C7 . |
+{end_of_grid}
 
 {sov:Verse 1}
 [F]I'm coming home, I've done my [Am]time,
@@ -30,8 +30,9 @@ I'll [F/C]stay on the bus, for[Dbaug]get about us, [Dm]put the blame on [D7]me,
 If [Gm]I don't see a [Bbm]yellow ribbon [Gm7]'round the [C7]old oak [*(F)]tree.
 {eoc}
 
-{c:Link}
-[F]/ / / /   [Am]/ / / /   [Gm]/ / / /   [C7]/ / / /
+{start_of_grid:Link}
+| F . | Am . | Gm . | C7 . ||
+{end_of_grid}
 
 {sov:Verse 2}
 [F]  Bus driver, please, look for [Am]me,
@@ -49,11 +50,12 @@ I'll [F/C]stay on the bus, for[Dbaug]get about us, [Dm]put the blame on [D7]me,
 If [Gm]I don't see a [Bbm]yellow ribbon [Gm7]'round the [C7]old oak [*(F)]tree.
 {eoc}
 
-{c: Instrumental}
-[F]/ / / /   [F]/ / / /   [Am]/ / / /   [Am]/ / / /
-[Cm]/ / / /   [D7]/ / / /   [Gm]/ / / /   [C7]/ / / /
-[F]/ / / /   [F]/ / / /   [Am]/ / / /   [Am]/ / / /
-[Cm]/ / / /   [D7]/ / / /   [Gm]/ / / /   [Gm]/ / / /
+{start_of_grid: Instrumental}
+| F . | F . | Am . | Am . |
+| Cm . | D7 . | Gm . | C7 . |
+| F . | F . | Am . | Am . |
+| Cm . | D7 . | Gm . | Gm . ||
+{end_of_grid}
 
 {sov:Bridge}
 [*(Gm)]Now the [Gm7]whole damned bus is [Bbm]cheering
@@ -61,8 +63,8 @@ And I [F]can't believe I [D7]see
 A [Gm]hundred yellow [Bbm]ribbons 'round the [Gm]old [C7]oak [F]tree
 {eov}
 
-{c:Outro}
-[F]/ / / /   [F]/ / / /   [Am]/ / / /   [Am]/ / / /
-[Cm]/ / / /   [D7]/ / / /   [Gm]/ / / /   [C7]/ / / /   (repeat 3 times)
-[F]/
+{start_of_grid:Outro}
+|: F . | F . | Am . | Am . |
+| Cm . | D7 . | Gm . | C7 . :| repeat three 3 times
+| F . ||
 {end_of_grid}

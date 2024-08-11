@@ -4,15 +4,15 @@
 {duration: 3:27}
 {time: 4/4}
 {tempo: 140}
-{subtitle: v1.1 Key: D, Tempo: 140 BPM}
+{subtitle: v1 Key: D, Tempo: 140 BPM}
 
 {define-guitar: Cadd9 base-fret 1 frets x 3 2 0 3 0 }
 {define-ukulele: Cadd9 base-fret 1 frets 0 2 0 3 }
 
-{start_of_verse: Intro}
-/ [G6]/ / /   [D]/ / / /   [G]/ / / /   [D]/ / / /   [A]/ / / /
-[Bm]/ / / /   [G]/ / / /   [D]/ / / /   [A7]/ / / /
-{end_of_verse}
+{start_of_grid: Intro}
+| G6 | D . | G . | D . | A . |
+| Bm . | G . | D . | A7 . ||
+{end_of_grid}
 
 {sov: Verse 1}
 [D]I don't care if [G]Monday's blue
@@ -111,8 +111,8 @@ It's [D]Friday, I'm in [A7]love
 {eov}
 
 {start_of_grid: Outro}
-[D]/ / / /   [G]/ / / /   [D]/ / / /   [A]/ / / /
-[Bm]/ / / /   [G]/ / / /   [D]/ / / /   [A7]/ / / /
-[D]/ / / /   [G]/ / / /   [D]/ / / /   [A]/ / / /
-[Bm]/ / / /   [G]/ / / /   [D]/ / / /   [A]/ / / /
+| D . | G . | D . | A . |
+| Bm . | G . | D . | A7 . ||
+| D . | G . | D . | A . |
+| Bm . | G . | D . | A . ||
 {end_of_grid}

@@ -1,6 +1,6 @@
 {title: First Day of My Life}
 {artist: Bright Eyes}
-{subtitle: v1.1 Key: F (original Key: E), Tempo: 95 BPM }
+{subtitle: v1 Key: F (original Key: E), Tempo: 95 BPM }
 {key: F}
 {time: 4/4}
 {duration: 3:08}
@@ -62,8 +62,10 @@ I mean I really think you like [F]me [Asus4] [Dm] [Gmadd9] [Bbm]
 {end_of_bridge}
 
 {soc: Outro}
-[F]/ / [Asus4]/ /   [Dm]/ / / /   [Gmadd9]/ / / /   [Bbm]/ / / /
-[F]/
+[F] [Asus4] [Dm] [Gmadd9] [Bbm]
+...
+[F]
+...
 {eoc}
 
 
