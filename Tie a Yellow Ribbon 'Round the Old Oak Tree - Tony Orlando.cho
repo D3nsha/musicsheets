@@ -5,13 +5,11 @@
 {time: 4/4}
 {tempo: 180}
 {duration: 3:26}
-
 {define-ukulele: Dbaug base-fret 1 frets 2 1 1 0}
 
-
 {start_of_grid: Intro}
-| F . | F . | Am . | Am . |
-| Gm . | Gm . | C7 . | C7 . |
+| F . | % . | Am . | % . |
+| Gm . | % . | C7 . | % . |
 {end_of_grid}
 
 {sov:Verse 1}
@@ -31,7 +29,7 @@ If [Gm]I don't see a [Bbm]yellow ribbon [Gm7]'round the [C7]old oak [*(F)]tree.
 {eoc}
 
 {start_of_grid:Link}
-| F . | Am . | Gm . | C7 . ||
+| F . | Am . | Gm . | C7 . |
 {end_of_grid}
 
 {sov:Verse 2}
@@ -51,10 +49,8 @@ If [Gm]I don't see a [Bbm]yellow ribbon [Gm7]'round the [C7]old oak [*(F)]tree.
 {eoc}
 
 {start_of_grid: Instrumental}
-| F . | F . | Am . | Am . |
-| Cm . | D7 . | Gm . | C7 . |
-| F . | F . | Am . | Am . |
-| Cm . | D7 . | Gm . | Gm . ||
+| F . | % . | Am . | % . | Cm . | D7 . | Gm . | C7 . |
+| F . | % . | Am . | % . | Cm . | D7 . | Gm . | Gm . |
 {end_of_grid}
 
 {sov:Bridge}
@@ -64,7 +60,6 @@ A [Gm]hundred yellow [Bbm]ribbons 'round the [Gm]old [C7]oak [F]tree
 {eov}
 
 {start_of_grid:Outro}
-|: F . | F . | Am . | Am . |
-| Cm . | D7 . | Gm . | C7 . :| repeat three 3 times
+|: F . | % . | Am . | % . | Cm . | D7 . | Gm . | C7 . :| repeat three 3 times
 | F . ||
 {end_of_grid}
