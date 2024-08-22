@@ -1,14 +1,14 @@
 {title: First Day of My Life}
 {artist: Bright Eyes}
-{subtitle: v1 Key: F (original Key: E), Tempo: 95 BPM }
+{subtitle: v1.2 Key: F (original Key: E), Tempo: 95 BPM }
 {key: F}
 {time: 4/4}
 {duration: 3:08}
 {tempo: 95}
-
 {define: Gmadd9 base-fret 1 frets 3 2 3 0}
 {define: Bbadd9 base-fret 1 frets 3 2 1 3}
 {define: Bbm base-fret 5 frets 2 1 2 4 }
+{define: Asus4 base-fret 1 frets 2 2 0 0}
 
 {start_of_grid:Intro}
 |: F . A . | Dm . . . | Bbadd9 . C . | F . . . :| x2
@@ -28,13 +28,13 @@ They're spreading [G7]blankets on the [C]beach  [C7]
 But I know [G7]where I want to [C]go  [C7]
 {eov}
 
-{start_of_bridge}
+{start_of_chorus}
 So I [F]thought I'd [C]let you [Dm]know
 That [Bb]these things take fore[C]ver
 I es[F]pecial[C]ly am [Dm]slow
 But I [Gm]realise that I need you and I 
 wondered if I could come [F]home [Asus4] [Dm] [Gmadd9] [Bbm]
-{end_of_bridge}
+{end_of_chorus}
 
 {sov:Verse 3}
 [F]I remember the [A]time you drove all [Dm]night
@@ -50,7 +50,7 @@ And you said, [F]"This is the [A]first day of my [Dm]life.
 And I'd [G7]probably be hap[C]py." [C7]
 {eov}
 
-{start_of_bridge}
+{start_of_chorus}
 So if you [F]want to [C]be with [Dm]me
 With [Bb]these things there's no [C]telling
 We'll just [F]have to [C]wait and [Dm]see
@@ -58,7 +58,7 @@ But I'd rather be [Gm]working for a paycheck
 than waiting to win the lotte[F]ry [Asus4] [Dm]
 Besides, may[Gm]be this time its different,
 I mean I really think you like [F]me [Asus4] [Dm] [Gmadd9] [Bbm]
-{end_of_bridge}
+{end_of_chorus}
 
 {start_of_grid: Outro}
 | F . Asus4 . | Dm . . . | Gmadd9 . Bbm . |
