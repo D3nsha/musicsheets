@@ -6,7 +6,10 @@
 {duration: 3:15}
 {key: Bm}
 
-{start_of_tab:Intro}
+{start_of_grid:Intro}
+|: Bm . A . | Bm . G A :|
+{end_of_grid}
+{start_of_tab}
 A |-9----7-------------------7----|-12-12-12-12-14---14-14-12---9---12---9---|
 E |---------10-7h9h7-----9--------|------------------------------------------|
 C |------------------9------------|------------------------------------------|
@@ -32,9 +35,9 @@ G |-------------------------------|------------------------------------------|
 You [D]better run, you [A]better take co-[Bm]ver. [G] [A]
 {eoc}
 
-{sov:Link 1}
-[Bm]/ / [A]/ /   [Bm]/ / [G]/ [A]/   [Bm]/ / [A]/ /   [Bm]/ / [G]/ [A]/
-{eov}
+{start_of_grid:Link 1}
+| Bm . A . | Bm . G A | Bm . A . | Bm . G A |
+{end_of_grid}
 
 {sov:Verse 2}
 [Bm]   Buying bread from a [A]man in Brussels,[Bm]  [G] [A]
@@ -51,13 +54,12 @@ He was[Bm]   six foot four [A]  and full of [Bm]muscles.[G] [A]
 You [D]better run, you [A]better take co-[Bm]ver, [G]yeah"[A]
 {end_of_chorus}
 
-{sov:Solo}
-[Bm]/ / [A]/ /   [Bm]/ / [G]/ [A]/   [Bm]/ / [A]/ /   [Bm]/ / [G]/ [A]/
-[Bm]/ / [A]/ /   [Bm]/ / [G]/ [A]/   [Bm]/ / [A]/ /   [Bm]/ / [G]/ [A]/
+{start_of_grid:Solo}
+| Bm . A . | Bm . G A | Bm . A . | Bm . G A |
+| Bm . A . | Bm . G A | Bm . A . | Bm . G A |
 
-[D]/ / [A]/ /   [Bm]/ / [G]/ [A]/
-[D]/ / [A]/ /   [Bm]/ / [G]/ [A]/
-{eov}
+| D . A . | Bm . G A | D . A . | Bm . G A |
+{end_of_grid}
 
 {sov:Verse 3}
 [Bm]   Lying in   [A]a den in Bombay[Bm]   [G] [A]
