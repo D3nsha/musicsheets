@@ -1,4 +1,3 @@
-
 {title: Beautiful Girl}
 {artist: INXS}
 {subtitle: v2 Key: C (Original Key: B), Tempo: 120}
@@ -61,10 +60,10 @@ stay with [C]me  [F] Stay with [C]me    [F]
 Stay with [C]me  [F] Stay with [C]me    [F]
 {eov}
 
-{start_ of_verse:Bridge}
-[Am]/ / / /     [Em]/ / / /     [Am]/ / / /      [Em]/ / / /     
+{start_of_grid:Bridge}
+| Am . | Em . | Am . | Em . |
+{end_of_grid}     
 ([F]Stay with [G]me,   [F] Stay with [G]me)
-{eov}
 
 {sov:Verse 3}  
 [C]She's so sc[F]ared, s[C]o very fr[F]ightened
