@@ -1,0 +1,81 @@
+{title: California Dreamin'}
+{artist: The Mamas & the Papas}
+{subtitle: v1b Key: Am (Original Key: C#m), Tempo: 110}
+{key: Am}
+{tempo: 110}
+{duration: 2:42}
+{define: Fmaj7 base-fret 5 frets 0 0 0 2}
+
+{start_of_tab: Intro}
+     1     2     3     4     |  1     2     3     4     |  1     2     3     4     
+A |-----0--2-----5---3---2---|-----0--7--8--7-----5-----|--3-----5--3--2---0-------|--2---|
+E |--0--------0--------------|--0-----------------------|----------------------3---|--0---|
+C |--------------------------|--------------------------|--------------------------|--2---|
+G |--------------------------|--------------------------|--------------------------|--2---|
+{end_of_tab}
+
+{sov:Verse 1}
+All the leaves are [Am]brown (all the [G]leaves are [F]brown)
+and the [G]sky is [E7sus4]grey (and the sky is [E7]grey[F])
+I've been for a [C]walk (I've been [E7]for a [Am]walk)
+on a [F]winter's [E7sus4]day (on a winter's [E7]day)
+I'd be safe and [Am]warm (I'd be [G] safe and [F]warm)
+if I [G]was in L.[E7sus4]A. (if I was in L.[E7]A.)
+Cal-i-for-nia [Am]dreamin' (Cal-i-[G]for-nia drea[F]min')
+On [G]such a win-ter's [E7sus4]day ____ [E7]
+{eov}
+
+{sov:Verse 2}
+Stopped into a [Am]church [G]/ / / /    [F]/
+I passed a[G]long the [E7sus4]way. [E7]/ Oh, I [F]
+got down on my [C]knees (got down [E7]on my [Am]knees)
+and I pre-[F]tend to pray [E7sus4](I pretend to [E7]pray)
+You know the preacher like the [Am]cold (preacher [G]like the [F])
+He knows [G]I'm gonna [E7sus4]stay (knows I'm gonna [E7]stay)
+Cal-i-for-nia [Am]dreamin' (Cal-i-[G]for-nia [F]dreamin')
+On [G]such a win-ter's [E7sus4]day /// [E7]
+{eov}
+
+{start_of_bridge: Flute solo}
+[Am]/ / / /    [Am]/ / / /    [Am]/ / / /    [Am]/ / [F]/ /
+[C]/ / [E7]/ /    [Am]/ / [F]/ /    [E7sus4]/ / / /    [E7]/ / / / 
+[Am]/ / [G]/ /    [F]/ / [G]/ /    [E7sus4]/ / / /    [E7]/ / / /
+[Am]/ / [G]/ /    [F]/ / [G]/ /    [E7sus4]/ / / /    [E7]/ / / /
+{end_of_bridge}
+
+{start_of_tab:Flute solo}
+     1     2     3     4     |  1     2     3     4     |  1     2     3     4     |  1     2     3     4     
+A |--------------------------|--------------------------|--------------------------|--------------------------|
+E |--------------------------|--------------------------|--------------------------|--------------------------|
+C |--0-----0-----0-----------|-----------0--2-------0---|--0-----0-----0-----------|-----------0--2-----0-----|
+g |--------------------------|--------4---------------4-|--------------------------|--------4--------------2--|
+
+A |--------------------------|--------------------------|--------------------------|-----------0--3-----8-----|
+E |--------------------------|-----------1-----------1--|--1--0-----0--------------|--------------------------|
+C |--------------------------|--------------------------|--------------------------|--------------------------|
+g |--0-----------1-----------|--2-----------------------|--------------------------|--------------------------|
+
+A |--7b----3--5-----------0--|--7b----3--5-----------0--|--7-----7-----7--10-7--5--|-----------0--3-----8-----|
+E |--------------------------|--------------------------|--------------------------|--------------------------|
+C |--------------------------|--------------------------|--------------------------|--------------------------|
+g |--------------------------|--------------------------|--------------------------|--------------------------|
+
+A |--7-----3--5b----3--7-----|-----3--6--5--------3--5--|--7--7--7--5--5--2--2-----|--------------------------|
+E |--------------------------|--------------------------|-----------------------4--|--4--1--1--0--0-----------|
+C |--------------------------|--------------------------|--------------------------|--------------------------|
+g |--------------------------|--------------------------|--------------------------|--------------------------|
+{end_of_tab}
+
+{sov:Verse 3}
+All the leaves are [Am]brown (all the [G]leaves are [F]brown)
+and the [G]sky is [E7sus4]grey (and the sky is [E7]grey[F])
+I've been for a [C]walk (I've been [E7]for a [Am]walk)
+on a [F]winter's [E7sus4]day (on a winter's [E7]day)
+If I didn't [Am]tell her (if I [G]didn't [Am]tell her)
+I could [G]leave to-[E7sus4]day (I could leave to-[E7]day)
+Cal-i-for-nia [Am]dreamin' (Cal-i-[G]for-nia drea[F]min')
+On [G]such a win-ter's [Am]day (Cal-i-[G]for-nia drea[F]min')
+On [G]such a win-ter's [Am]day (Cal-i-[G]for-nia drea[F]min')
+On [G]such a win-ter's [Am]day (Cal-i-[G]for-nia drea[F]min')
+On [G]such a win-ter's [Fmaj7]day.   [Am]
+{eov}
