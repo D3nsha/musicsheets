@@ -4,10 +4,12 @@
 {key: Em}
 {tempo: 105}
 {duration:4:00}
+{define-ukulele: Amadd11 base-fret 1 frets 2 0 0 5}
+{define-ukulele: D/F# base-fret 1 frets 2 2 2 0}
 
-{sov:Intro}
-[Em]/ / / /    [Em]/ / / [D/F#]/
-{eov}
+{start_of_grid:Intro}
+| Em . . . | Em . D/F# . |
+{end_of_grid}
 
 {sov:Verse 1}
 [Em]   Here I go ou-[D/F#]t to [G]sea again
@@ -53,14 +55,13 @@ No need to [Em]laugh, and [G]cry
 It's a [Em]wonderful, [Am]wonderful [D]life
 {eoc}
 
-{sov:Instrumental}
-[Em]/ / / /    [Em]/ / [D/F#]/ /    [G]/ / / /    [G]/ / [D/F#]/ /
-[Em]/ / / /    [Em]/ / [D/F#]/ /    [G]/ / / /    [G]/ / [D/F#]/ /
-
+{start_of_grid:Instrumental}
+| Em . . . | Em . D/F# . | G . . . | G . D/F# . |
+| Em . . . | Em . D/F# . | G . . . | G . D/F# . |
+{end_of_grid}
 [Em]  And I need a friend, [D/F#]oh-oh [G]I need a friend
 To make me [D/F#]hap-[Em]py
      [D/F#]Not so [G]alone     [D/F#]
-{eov}
 
 {sov:Pre-chorus}
 [Em]   Look at me [D/F#]here
