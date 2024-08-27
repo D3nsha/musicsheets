@@ -5,9 +5,9 @@
 {tempo: 182}
 {duration: 4:00}
 
-{start_of_verse: Intro}
-[C]/ / / /    [G]/ / / /    [C]/ / / /    [C]/ / / /
-{end_of_verse}
+{start_of_grid: Intro}
+| C . | G . | C . | C . |
+{end_of_grid}
 
 {start_of_tab: Intro}
 A |-------------3--||--7-----5--3----|--10-----8--7--|
@@ -67,10 +67,10 @@ red gold and [C]gree-ee-[G]een
 [Dm]You're my lover, not my [Am]ri[G]val
 {end_of_bridge}
 
-{start_of_verse: Solo}
-[C]/ / / /    [G]/ / / /    [C]/ / / /    [C]/ / / /
-[C]/ / / /    [G]/ / / /    [C]/ / / /    [C]/ / / /
-{end_of_verse}
+{start_of_grid: Solo}
+| C . | G . | C . | C . |
+| C . | G . | C . | C . |
+{end_of_grid}
 {sov}
 I'm a [F]man without con[G]viction
 I'm a [F]man who doesn't [G]know
@@ -88,6 +88,6 @@ Red gold and [Dm]green
 red gold and [C]gree-ee-[G]een
 {eoc}
 
-{start_of_verse: Outro}
-[C]/ / / /    [G]/ / / /    [C]/ / / /    [C]/ / / /
-{end_of_verse}
+{start_of_grid:Outro}
+| C . | G . | C . | C . |
+{end_of_grid}
