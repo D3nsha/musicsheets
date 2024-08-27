@@ -47,11 +47,11 @@ sing [G]Sha la la [C]la la la [G]la la te [D7]da
 [G]Sha la la [C]la la la [G]la la te [D7]da  la te [G]da
 {eoc}
 
-{sov: Bass solo}
-/[G]/// /[G]///
-/[G]/// /[C]///
-/[G]/// /[D]///
-{eov}
+{start_of_grid:Bass solo}
+| G . . | G . . |
+| G . . | C . . |
+| G . . | D . . |
+{end_of_grid}
 
 {sov: Verse 3}
 [G]So hard to [C]find my way, [G]now that I'm [D7]all on my own
