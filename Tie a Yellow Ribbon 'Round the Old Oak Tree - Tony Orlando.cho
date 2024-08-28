@@ -1,6 +1,6 @@
 {title: Tie a Yellow Ribbon 'Round the Old Oak Tree}
 {artist: Tony Orlando and Dawn}
-{subtitle: v1.1 Key: F, Tempo: 180}
+{subtitle: v1.2 Key: F, Tempo: 180}
 {key: F}
 {time: 4/4}
 {tempo: 180}
@@ -8,11 +8,9 @@
 
 {define-ukulele: Dbaug base-fret 1 frets 2 1 1 0}
 
-
 {c: Intro}
 [F]/ / / /   [F]/ / / /   [Am]/ / / /   [Am]/ / / /
 [Gm]/ / / /   [Gm]/ / / /   [C7]/ / / /   [C7]/ / / /
-
 
 {sov:Verse 1}
 [F]I'm coming home, I've done my [Am]time,
@@ -65,4 +63,3 @@ A [Gm]hundred yellow [Bbm]ribbons 'round the [Gm]old [C7]oak [F]tree
 [F]/ / / /   [F]/ / / /   [Am]/ / / /   [Am]/ / / /
 [Cm]/ / / /   [D7]/ / / /   [Gm]/ / / /   [C7]/ / / /   (repeat 3 times)
 [F]/
-{end_of_grid}
