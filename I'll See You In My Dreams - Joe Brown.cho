@@ -6,9 +6,9 @@
 {duration: 3:13}
 {key: F}
 
-{start_of_verse: Intro}
-|:    [F]/ / [Dm]/ /    |    [Fmaj7]/ / [Dm]/ /    :| x2
-{end_of_verse}
+{start_of_grid: Intro}
+|: F . Dm . | Fmaj7 . Dm . :| x2
+{end_of_grid}
 
 {start_of_verse}
 [F]Though the [Dm]days are [Fmaj7]long, [Dm]
@@ -51,6 +51,7 @@ I'll [Bb]see you [Bbm6]in [C7]my [F]dreams
 {start_of_verse: Outro}
 [Cm6]They will [D7]light my [A7]lonely way [Dm]tonight,[F7]
 I'll [Bb]see you [Bbm6]in [C7]my [F]dreams
-
-|:    [F]/ / [Dm]/ /    |    [Fmaj7]/ / [Dm]/ /    :| x3
 {end_of_verse}
+{start_of_grid}
+|: F . Dm . | Fmaj7 . Dm . :| x3
+{end_of_grid}
