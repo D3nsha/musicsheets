@@ -5,8 +5,9 @@
 {tempo: 142}
 {duration: 3:42}
 
-{c:Intro}
-[Dm]/ / / /    [Dm]/ / [G]/ [F]/    [Dm]/ / / /    [Dm]/ / [F]/ [C]/
+{start_of_grid:Intro}
+|: Dm . . . | Dm . G F | Dm . . . | Dm . F C :|
+{end_of_grid}
 
 {sov:Verse 1}
 [Dm]Colour me your colour, baby,
@@ -25,9 +26,9 @@ You can [G]call me any [Bb]day or night,
 Call [Dm]me.
 {eoc}
 
-{sov:Link 1}
-[Dm]/ / / /    [Dm]/ / [G]/ [F]/    [Dm]/ / / /    [Dm]/ / [F]/ [C]/
-{eov}
+{start_of_grid:Link 1}
+| Dm . . . | Dm . G F | Dm . . . | Dm . F C |
+{end_of_grid}
 
 {sov:Verse 2}
 [Dm]Cover me with kisses, baby,
@@ -46,9 +47,9 @@ When you're [G]ready we can [Bb]share the wine,
 Call [Dm]me.
 {eoc}
 
-{sov:Link 2}
-[Dm]/ / / /    [Dm]/ / [G]/ [F]/    [Em]/ / / /    [Em]/ / [A]/ [G]/
-{eov}
+{start_of_grid:Link 2}
+| Dm . . . | Dm . G F | Em . . . | Em . A G |
+{end_of_grid}
 
 {sov:Middle}
 [Em]Ooh, he speaks the [Bm]languages of love,
@@ -58,13 +59,13 @@ Any[Dm]time, anyplace, anywhere, any [Bb]way.
 Any[G]time, anyplace, anywhere, any [A]day.
 {eov}
 
-{sov:Instrumental}
-[Em]/ / / /    [Em]/ / / /    [Bm]/ / / /    [Bm]/ / / /
-[Em]/ / / /    [Em]/ / / /    [Bm]/ / / /    [Bm]/ / / /
-[F]/ / / /    [F]/ / / /    [C]/ / / /    [C]/ / / /
-[Dm]/ / / /    [Dm]/ / / /    [Bb]/ / / /    [Bb]/ / / [A]/
-[G]/ / / /    [G]/ / / /    [A]/ / / /
-{eov}
+{start_of_grid:Instrumental}
+| Em . . . | % . . . | Bm . . . | % . . . |
+| Em . . . | % . . . | Bm . . . | % . . . |
+| F . . . | % . . . | C . . . | % . . . |
+| Dm . . . | % . . . | Bb . . . | Bb . . A |
+| G . . . | % . . . | A . . . |
+{end_of_grid}
 
 {soc:Chorus 3}
 [A]    [C]Call [Dm]me, (call me) my [F]love,
