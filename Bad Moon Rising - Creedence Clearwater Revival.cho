@@ -5,9 +5,9 @@
 {tempo: 176}
 {duration: 2:13}
 
-{start_of_verse: Intro}
-|  [C]/  /  /  /  |  [G]/  /  [F]/  /  |  [C]/  /  /  /  |
-{end_of_verse}
+{start_of_grid: Intro}
+| C . | G F | C . |
+{end_of_grid}
 
 {start_of_verse: Verse 1}
 [C]I see a [G]bad [F]moon r[C]ising
