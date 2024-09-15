@@ -1,6 +1,6 @@
 {title: I'll See You in My Dreams}
 {artist: Joe Brown}
-{subtitle: v1.1, Key: Bm, Tempo: 134}
+{subtitle: v1.2, Key: Bm, Tempo: 134}
 {tempo: 134}
 {time: 4/4}
 {duration: 3:13}
@@ -31,11 +31,11 @@ I'll [Bb]see you [Gm7]in my [Bbm6]dreams, [Bbm6]
 [F]hold you [Dm]in [E7]my [Dm]dreams [Dm]
 [Cm6]Someone [D7]took you [D7]out of my arms, [D7]
 [G7]still I feel the [C7]thrill of your charms
-{end_of_verse}
+{end_of_chorus}
 
 {start_of_verse}
 [Bb]Lips that [Gm7]once were [Bbm6]mine,
-[F]tender [Dm]eyes [E6]that [Dm7]shine
+[F]tender [Dm]eyes [Dbm7]that [Dm7]shine
 [Cm6]They will [D7]light my [A7]way [Dm]tonight,[F7]
 I'll [Bb]see you [Bbm6]in [C7]my [F]dreams
 {end_of_verse}
@@ -49,7 +49,7 @@ I'll [Bb]see you [Gm7]in my [Bbm6]dreams, [Bbm6]
 
 {start_of_verse}
 [Bb]Lips that [Gm7]once were [Bbm6]mine,
-[F]tender [Dm]eyes [E6]that [Dm7]shine
+[F]tender [Dm]eyes [Dbm7]that [Dm7]shine
 [Cm6]They will [D7]light my [A7]way [Dm]tonight,[F7]
 I'll [Bb]see you [Bbm6]in [C7]my [F]dreams
 {end_of_verse}
