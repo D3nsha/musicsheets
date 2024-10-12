@@ -1,0 +1,73 @@
+{title: Strawberry Fields Forever}
+{artist: The Beatles}
+{subtitle: v1 Key: G (Original key: A), Tempo: 90 }
+{key: G }
+{tempo: 90}
+{duration: 2:57}
+{define-ukulele: F#m base-fret 0 frets 2 1 2 0}
+{define-ukulele: Em base-fret 0 frets 4 4 3 2}
+
+{sot:Intro}
+    D           F#m           D7                B7      Em         D             C  G
+A |-0-----0-----0-----0-----|-0-----0-----------------|------------------------|-------|
+E |-2-----2-----2-----2-----|-2-----2-----3-----2-----|-------3----------2-----|-0--3--|
+C |-2-----------1-----------|-0-----------4-----3-----|----4----------2--------|-0--2--|
+G |-------------------------|-------------------------|-4----------2-----------|-0--0--|
+{eot}
+
+{soc:Chorus 1}
+[G]Let me take you down, 'Cause I'm going    [Dm7]to    strawberry fields
+[E7]    Nothing is real    And [C]nothing to [(D)]get [E7]hung about
+[C]Strawberry fields for[G]ever
+{eoc}
+
+{sov:Verse 1}
+[D]Living is [F#m]easy with [D7]eyes closed    [(B7)][Em]Misunderstanding all you [C]see
+[C]    It's getting [D7]hard to be some[G]one, but it all works [Em]out
+[C]    It doesn't [D]matter much to [C]me    [G]
+{eov}
+
+{soc:Chorus 2}
+[G]Let me take you down, 'Cause I'm going     [Dm7]to     strawberry fields
+[E7]    Nothing is real     And [C]nothing to [(D)]get [E7]hung about
+[C]Strawberry fields for[G]ever
+{eoc}
+{sot}
+    G
+A |-3--2--------------------|
+E |-------3--1--------------|
+C |-------------2--0--------|
+G |-------------------4--0--|
+{eot}
+
+{sov:Verse 2}
+[D]No one [F#m]I think is [D7]in my tree    [(B7)][Em]I mean, it must be high or [C]low
+[C]    That is, you [D7]can't, you know, tune [G]in, but it's al-[Em]right
+[C]    That is, I [D]think it's not too [C]bad     [G]
+{eov}
+
+{soc:Chorus 3}
+[G]Let me take you down, 'Cause I'm going     [Dm7]to     strawberry fields
+[E7]    Nothing is real    And [C]nothing to [(D)]get [E7]hung about
+[C]Strawberry fields for[G]ever
+{eoc}
+{sot}
+    G
+A |-3--2--------------------|
+E |-------3--1--------------|
+C |-------------2--0--------|
+G |-------------------4--0--|
+{eot}
+
+{sov:Verse 3}
+[D]Always, [F#m]no some[D7]times, think it's me    [(B7)][Em]But you know, I know when it's a [C]dream
+[C]    I think a [D7]"No" will be a [G]"Yes" but it's all [Em]wrong
+[C]    That is, I [D]think I disag[C]ree     [G]
+{eov}
+
+{soc:Chorus 4}
+[G]Let me take you down, 'Cause I'm going     [Dm7]to     strawberry fields
+[E7]     Nothing is real     And [C]nothing to [(D)]get [E7]hung about
+[C]Strawberry fields for[G]ever.   [C]Strawberry fields for[G]ever
+[C]Strawberry [D]fields...    for[C]ever     [G]
+{eoc}
