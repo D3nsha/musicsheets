@@ -1,13 +1,13 @@
 {title: Tie a Yellow Ribbon 'Round the Old Oak Tree}
 {artist: Tony Orlando and Dawn}
-{subtitle: v2.0 Key: F, Tempo: 180}
+{subtitle: v2.1 Key: F, Tempo: 180}
 {key: F}
 {time: 4/4}
 {tempo: 180}
 {duration: 3:26}
 {define-ukulele: Dbaug base-fret 1 frets 2 1 1 0}
 
-{start_of_tab:Intro}
+{start_of_tab}
    F                         F                         Am                        Am                      
 A|-0-----------0-----3-----|-5-----3--5-----3--0-----|-0-----------0-----3-----|-5-----3--5-----3--0-----|
 E|-1-----1-----------------|-------------------------|-0-----0-----------------|-------------------------|
@@ -59,7 +59,7 @@ If [Gm]I don't see a [Bbm]yellow ribbon [Gm7]'round the [C7]old oak [*(F)]tree.
 
 {start_of_grid: Instrumental}
 | F . | % . | Am . | % . | Cm . | D7 . | Gm . | C7 . |
-| F . | % . | Am . | % . | Cm . | D7 . | Gm . | Gm . |
+| F . | % . | Am . | % . | Cm . | D7 . | Gm . | Slow
 {end_of_grid}
 
 {sov:Bridge}
