@@ -1,0 +1,63 @@
+{title: Take It Easy}
+{artist: The Eagles}
+{key: G}
+{tempo: 138}
+{time: 4/4}
+{duration: 3:28}
+{subtitle: v1.0 Key: G, Tempo: 138 BPM}
+{define-ukulele: D7sus4 base-fret 0 frets 2 2 3 3}
+{define-ukulele: Em base-fret 0 frets 0 4 3 2}
+{sov: Intro}
+[G][/][/][/]   [G][/][/][/]   [C][/][/][/]   [D7sus4][/][/][/]
+[G][/][/][/]   [G][/][/][/]   [C][/][/][/]   [D7sus4][/][/][/]
+[G][/][/][/]   [G][/][/][/]
+{end_of_verse}
+
+{sov: Verse 1}
+Well I'm [G]running down the road tryin; to loosen my load, I've got seven women [D]on my [C]mind
+[G]Four that wanna own me, [D]two that wanna stone me, [C]one says she's a friend of [G]mine
+{eov}
+
+{soc}
+Take it [Em]ea-[Em7]sy,   take it [C]ea-[G]sy
+Don't let the [Am]sound of your own [C]wheels drive you [Em]crazy [Em7]
+Lighten [C]up while you still [G]can,  don't even [C]try to under[G]stand
+Just find a [Am]place to make your [C]stand and take it ea-[G]sy  [G]____
+{eoc}
+
+{sov: Verse 2}
+Well I'm a-[G]standing on a corner in Winslow, Arizona, such a fine [D]sight to [C]see
+It's a [G]girl my Lord in a [D]flat-bed Ford, slowing [C]down to take a look at [G]me
+{eov}
+
+{soc}
+Come on [Em]ba-a-a[D]by,  don't say [C]may-[G]be
+I gotta [Am]know if your sweet [C]love is gonna [Em]save me [Em7]
+We may [C]lose and we may [G]win,   though we may [C]never be here a[G]gain
+So open [Am]up I'm climbin' [C]in, so take it ea-[G]sy [G]___
+{eoc}
+
+[G][/][/][/]   [G][/][/][/]   [G][/][D][/]   [C][/][/][/]
+[G][/][/][/]   [D][/][/][/]   [C][/][/][/]   [G][/][/][/]
+[Em][/][/][/]   [D][/][/][/]   [C][/][/][/]   [G][/][/][/]
+[Am][/][/][/]   [C][/][/][/]   [Em][/][/][/]   [Em][/][D][/]
+
+
+{start_of_verse: Verse 3}
+Well I'm a [G]runnin' down the road tryin' to loosen my load, got a world of trouble [D]on my [C]mind
+[G]Lookin' for a lover who [D]won't blow my cover, she's [C]so-o hard to [G]find
+{end_of_verse}
+
+{start_of_chorus}
+Take it [Em]ea-[Em]sy,   take it [C]ea-[G]sy
+Don't let the [Am]sound of your own [C]wheels drive you [Em]crazy [Em7]
+Come on [C]ba-a-a[G]by, don't say [C]may-[G]be
+I gotta [Am]know if your sweet [C]love is gonna [G]save me!
+{end_of_chorus}
+
+{start_of_verse: Outro}
+[C]Ooh ooh ooh, ooh ooh ooh, [G]Ooh ooh ooh, ooh ooh ooh
+[C]Ooh ooh ooh, ooh ooh ooh, [G]Ooh ooh ooh, ooh ooh ooh
+[C]Ooh ooh ooh, Oh we got it [G]ea-[F]ea[C]-sy
+    You oughta take it [G]ea-[F]ea[C]-sy
+[Em]____
