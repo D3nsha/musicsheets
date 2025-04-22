@@ -1,67 +1,63 @@
 {title: Leaning on a Lamp Post}
 {artist: The Ukulele Orchestra of Great Britain}
-{subtitle: v1.1 Key: Dm}
+{subtitle: v1.2 Key: Dm}
 {key: Dm}
+{define-ukulele: Edim7 base-fret 0 frets 0 1 0 1}
+{define-ukulele: A#dim7 base-fret 0 frets 0 1 0 1}
+{define-ukulele: A7sus4 base-fret 0 frets 0 2 0 0 }
 
 
-{sov:Intro} 
-I'm [Dm]leaning [Gm]on a [A]lamp; [Gm]maybe you think, I look a [Dm]tramp[Gm],
-Or you may [Dm]think I'm hanging '[Bb7]round to steal a [A]car.[Bb7]  [A]
-[Dm]But no, [Gm]I'm not a [A]crook, and if you [Gm]think, that's what I [Dm]look;[Gm]
-I'll tell you [Dm]why I'm here and [Edim]what my motives [A]are.[Bb]  [A]
-{eov}
+{soc:Intro} 
+[Dm]    I'm leaning [Gm]on a [A]lamp;   [Gm]maybe you think, I look a [Dm]tramp,
+[Gm]    Or you may [Dm]think I'm hanging '[Bb7]round to steal a [A]car.     [Bb7]  [A]
+[Dm]But no, [Gm]I'm not a [A]crook, and if you [Gm]think, that's what I [Dm]look;
+[Gm]    I'll tell you [Dm]why I'm here and [Edim]what my motives [A]are.[Bb]  [A]
+{eoc}
 
-{start_of_verse:Verse 1} 
 Raz, dvaj, tree!
-
-I'm [Dm]leaning on a [Gm]lamp-post,
-at the [Bb]corner of the [Dm]street,
+{start_of_verse: 1} 
+I'm [Dm]leaning on a [Gm]lamp-post, at the [Bb]corner of the [Dm]street,
 In case a [A7]certain little lady comes [Dm]by.[Gm][Dm]
 
-Oh [A7]me,[Bb7][A7] oh [Dm]my,[Gm][Dm]
+Oh [A7]me,[Bb7][A7]							Oh [Dm]my![Gm][Dm]
 I [A7]hope that little [Gm]lady comes [A7]by.[Bb7][A7]
- 
-I [Dm]don't know if she'll [Gm]get away,
-she [Bb]doesn't always [Dm]get away,
-But [A7]anyhow I know that she'll [Dm]try.[Bb7][A7]
+{end_of_verse}
 
-Oh [A7]me,[Bb7][A7] oh [Dm]my![Gm][Dm]
+{start_of_verse: 2}
+I [Dm]don't know if she'll [Gm]get away, she [Bb]doesn't always [Dm]get away,
+But [A7]anyhow I know that she'll [Dm]try.[Gm][Dm]
+
+Oh [A7]me,[Bb7][A7]							Oh [Dm]my![Gm][Dm]
 I [A7]hope the little [Gm]lady comes [A7]by.[Bb7][A7]
 {end_of_verse}
  
-{start_of_bridge}
-There's [A7]no other girl I would wait for,
-But [Dm]this girl I'd break any date for.
-I [Edim]won't have to ask what she's late for;
-She [A]wouldn't leave me flat; she's not a girl like that.
-{end_of_bridge}
- 
-{start_of_chorus}
-Oh, she's [Dm]absolutely [Gm]wonderful
-and [Bb]marvellous and [Dm]beautiful,
-And [A7]anyone can understand [Dm]why,[Gm][Dm]
-I'm [A7]leaning on a lamp-post at the corner of the street,
-In case a [Bb7]certain little [A7]lady comes [Dm]by!
+{start_of_chorus: 3}
+There's [A7]no other girl I would wait for,	but [Dm]this girl I'd break any date for.
+I [Edim7]won't have to ask what she's late for;
+She [A]wouldn't leave me flat; she's not a [Bb]girl like [A]that.
 {end_of_chorus}
- 
+
+{start_of_verse: 4}
+Oh, she's [Dm]absolutely [Gm]wonderful and [Bb]marvellous and [Dm]beautiful,
+And [A7]anyone can understand [Dm]why,[Gm][Dm]
+[*(slowing)]I'm [A7]leaning on a lamp-post at the [A7sus4]corner of the street, in case a [Bb7]certain little [A7]lady comes [Dm]by!
+{end_of_verse}
+  
 {start_of_verse}
-|: [Dm]/ / / /    [Gm]/ / / /    [Bb]/ / / /    [Dm]/ / / / 
-[A7]/ / / /    [A7]/ / / /    [Dm]/ / [Gm]/ /    [Dm]/ / / /
-[A7]/ / [Bb7]/ /    [A7]/ / / /    [Dm]/ / [Gm]/ /    [Dm]/ / / / 
-[A7]/ / / /    [Gm]/ / / /    [A7]/ / [Bb7]/ /    [A7]/ / / /    :| x2
+[*|:] [Dm][*/][*/]    [Gm][*/][*/]    [Bb][*/][*/]    [Dm][*/][*/] 
+[A7][*/][*/]    [A7][*/][*/]    [Dm][*/] [Gm][*/]    [Dm][*/][*/]
+[A7][*/] [Bb7][*/]    [A7][*/][*/]    [Dm][*/] [Gm][*/]    [Dm][*/][*/] 
+[A7][*/][*/]    [Gm][*/][*/]    [A7][*/] [Bb7][*/]    [A7][*/][*/]    [*:|]
 {end_of_verse}
 
-{start_of_bridge}
-There's [A7]no other girl I would wait for,
-But [Dm]this girl I'd break any date for.
-I [Edim]won't have to ask what she's late for;
-She [A]wouldn't leave me flat; she's not a girl like that.
-{end_of_bridge}
-
-{start_of_chorus}
-Oh, she's [Dm]absolutely [Gm]wonderful
-and [Bb]marvellous and [Dm]beautiful,
-And [A7]anyone can understand [Dm]why,[Gm][Dm]
-I'm [A7]leaning on a lamp-post at the corner of the street,
-In case a [Bb7]certain little [A7]lady comes [Dm]by!
+{start_of_chorus: 5}
+There's [A7]no other girl I would wait for,	but [Dm]this girl I'd break any date for.
+I [Edim7]won't have to ask what she's late for;
+She [A]wouldn't leave me flat; she's not a [Bb]girl like [A]that.
 {end_of_chorus}
+
+{start_of_verse: 6}
+Oh, she's [Dm]absolutely [Gm]wonderful and [Bb]marvellous and [Dm]beautiful,
+And [A7]anyone can understand [Dm]why,[Gm][Dm]
+I'm [A7]leaning on a lamp-post at the [A7sus4]corner of the street, in case a [Bb7]certain little [A7]lady comes [Dm]by!
+{end_of_verse}
