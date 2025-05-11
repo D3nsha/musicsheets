@@ -6,7 +6,8 @@
 {duration: 4:00}
 {define-ukulele: Asus4 base-fret 0 frets 2 2 0 0}
 
-{start_of_tab}
+{comment: 4/4 time}
+{start_of_tab:Intro}
         G                         D           G             Asus4       D
 |--0--|-2-----------4-----5-----|-0-----------------------|-------------------------|
 |-----|-3-----3-----5-----------|-2-----------3-----2-----|-0-----------2-----------|
@@ -26,13 +27,16 @@
 [G]   I've got a [D]feeling,   [D]     this year's for [A]me and you.
 [A]   So happy [D]Christmas,   [D]     I love you, [G]baby,
 [G]   I can see a [D]better time,   [D]     when all our [Asus4]dreams come [D]true.
-
-[*|] [G] [*/][*/]  [*/][*/]  [*|]  [D] [*/][*/]  [G] [*/][*/]  [*|]  [Asus4] [*/][*/]  [*|]
 {end_of_verse}
 
-{start_of_verse: Link 1}
-[*|] [D] [*/][*/][*/]  [*/][*/][*/]  [*|]  [D] [*/][*/][*/]  [A] [*/][*/][*/]  [*|]  [D] [*/][*/][*/]  [G] [*/][*/][*/]  [*|]  [A] [*/][*/][*/]  [D] [*/][*/][*/]  [*|]
-{end_of_verse}
+{start_of_grid}
+| G . . . | D . G . | Asus4 . . . |
+{end_of_grid}
+
+{comment: 6/8 time}
+{start_of_grid: Link 1}
+| D . . A | D G A D |
+{end_of_grid}
 
 {start_of_verse: Verse 3}
 They've got [D]cars big as [A]bars, they've got [Bm]rivers of [G]gold
@@ -53,10 +57,9 @@ The [G]boys of the [G]N. Y. [Bm]P. D. [A]choir were [D]singing "[D]Galway [Bm]Ba
 [Bm]     and the [D]bells were [G]ringing [A]out for [A]Christmas [*(D)]Day.
 {end_of_chorus}
 
-{start_of_verse: Link 2}
-[*|] [D] [*/][*/][*/]  [A] [*/][*/][*/]  [*|]  [Bm] [*/][*/][*/]  [G] [*/][*/][*/]  [*|]  [D] [*/][*/][*/]  [D] [*/][*/][*/]  [*|]  [D] [*/][*/][*/]  [A] [*/][*/][*/]  [*|]
-[*|] [D] [*/][*/][*/]  [Bm] [*/][*/][*/]  [*|]  [D] [*/][*/][*/]  [G] [*/][*/][*/]  [*|]  [D] [*/][*/][*/]  [D] [*/][*/][*/]  [*|]  [A] [*/][*/][*/]  [D] [*/][*/][*/]  [*|]
-{end_of_verse}
+{start_of_grid: Link 2}
+| D A Bm Gm | D . . A | D Bm D G | D . A D |
+{end_of_grid}
 
 {start_of_verse: Verse 5}
 You're a [D]bum, you're a [D]punk, you're an [D]old slut on [A]junk,
@@ -65,17 +68,18 @@ You [D]scumbag, you [D]maggot, you [D]cheap lousy [A]faggot,
 Happy [D]Christmas your [G]arse, I pray [A]God it's our [D]last.
 {end_of_verse}
 
+{new_page}
 {start_of_chorus: Chorus 2}
 The [G]boys of the [G]N. Y. [Bm]P. D. [A]choir still [D]singing "[D]Galway [Bm]Bay"
 [Bm]     and the [D]bells were [G]ringing [A]out for [A]Christmas [*(D)]Day.
 {end_of_chorus}
 
-{start_of_verse: Link 3 (Arpeggios)}
-[*|] [D] [*/][*/][*/]   [*/][*/][*/]  [*|]  [D] [*/][*/][*/]   [*/][*/][*/]  [*|]  [G] [*/][*/][*/]   [*/][*/][*/]  [*|]  [G] [*/][*/][*/]   [*/][*/][*/]  [*|]
-[*|] [D] [*/][*/][*/]  [D] [*/][*/][*/]  [*|]  [D] [*/][*/][*/]  [G] [*/][*/][*/]  [*|]  [Asus4] [*/][*/][*/]  [D] [*/][*/][*/]  [*|]  [A] [*/][*/][*/]   [*/][*/][*/]  [*|]
-{end_of_verse}
+{comment: Arpeggio}
+{start_of_grid: Link 3}
+| D . . . | G . . . | D . . G | A D A . |
+{end_of_grid}
 
-{start_of_verse: Verse 6 (Arpeggios)}
+{start_of_verse: Verse 6}
 [*(A)]I could have [D]been someone.    [D]     Well so could [G]anyone,
 [G]     You took my [D]dreams from me    [D]     when I first [A]found you.
 [A]     I kept them [D]with me babe,     [D]     I put them [G]with my own,
@@ -84,17 +88,14 @@ The [G]boys of the [G]N. Y. [Bm]P. D. [A]choir still [D]singing "[D]Galway [Bm]B
 
 {start_of_chorus: Chorus 3}
 The [G]boys of the [G]N. Y. [Bm]P. D. [A]choir still [D]singing "[D]Galway [Bm]Bay"
-[Bm]     and the [D][*!]bells were ringing out for Christmas [*(D)]Day.
+[Bm]     and the [D][*!]bells were ringing out for [A]Christmas [*(D)]Day.
 {end_of_chorus}
 
-{start_of_verse: Outro}
-[*|] [D] [*/][*/][*/]   [*/][*/][*/]  [*|]  [D] [*/][*/][*/]   [*/][*/][*/]  [*|]  [G] [*/][*/][*/]   [*/][*/][*/]  [*|]  [G] [*/][*/][*/]   [*/][*/][*/]  [*|]
-[*|] [D] [*/][*/][*/]   [*/][*/][*/]  [*|]  [D] [*/][*/][*/]   [*/][*/][*/]  [*|]  [A] [*/][*/][*/]   [*/][*/][*/]  [*|]  [A] [*/][*/][*/]   [*/][*/][*/]  [*|]
-
-[*|:] [D] [*/][*/][*/]   [*/][*/][*/]  [*|]  [D] [*/][*/][*/]   [*/][*/][*/]  [*|]  [G] [*/][*/][*/]   [*/][*/][*/]  [*|]  [G] [*/][*/][*/]   [*/][*/][*/]  [*|]
-[*|] [D] [*/][*/][*/]   [*/][*/][*/]  [*|]  [D] [*/][*/][*/]   [*/][*/][*/]  [*|]  [A] [*/][*/][*/]  [D] [*/][*/][*/]  [*|]  [A] [*/][*/][*/]   [*/][*/][*/]  [*:|]
-
+{start_of_grid: Outro}
+| D . . . | G . . . | D . . . | A . . . |
+|: D . . . | G . . . | D . . . |1 A D A . :|
+|2> A D . . :|
+{end_of_grid}
 
 The [G]boys of the [G]N. Y. [Bm]P. D. [A]choir were [D]singing "[D]Galway [Bm]Bay"
 [Bm]     and the [D][*(slowing)]bells were [G]ringing [A]out for [A]Christmas [D]Day.
-{end_of_verse}
