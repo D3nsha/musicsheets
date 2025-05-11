@@ -1,0 +1,80 @@
+{title: Solsbury Hill}
+{artist: Peter Gabriel}
+{subtitle: v1 Key: G (Original key: B), Tempo: 100, Time: 7/4}
+{key: G}
+{tempo: 100}
+{duration: 3:30}
+{time: 7/4}
+{define-ukulele: Aaug base-fret 0 frets 2 1 1 0}
+{define-ukulele: Gsus2 base-fret 0 frets 0 2 3 0}
+{define-ukulele: Gsus4 base-fret 0 frets 0 2 3 3}
+{define-ukulele: Dsus4 base-fret 0 frets 2 2 3 0}
+{define-ukulele: Em base-fret 0 frets 0 4 3 2}
+
+{start_of_verse: Intro}
+[*|:][Gsus4] [G] [*|] [Gsus4] [G] [D] [Gsus2] [*|]
+[*|] [Gsus4] [G] [*|] [Gsus4] [G] [D] [Gsus2] [*:|] [*x2]
+{end_of_verse}
+
+{start_of_verse:Verse 1}
+[G][Gsus2][G] [*|] [G]Climbing up on Solsbury Hill
+[G][Gsus2][G] [*|] [G]I could see the city light
+[Em][Gsus2/E][Em] [*|] [Em]Wind was blowing, time stood still
+[Em][Gsus2/E][Em] [*|] [Em]Eagle flew out of the night
+[G][Gsus2][G] [*|] [G]He was something to observe
+[G][Gsus2][G] [*|] [G]Came in close, I heard a voice
+[Em][Gsus2/E][Em] [*|] [Em]Standing, stretching every nerve
+[Em][Gsus2/E][Em] [*|] [Em]I had to listen, had no choice
+
+[Cmaj7] [G/C]I did [Cmaj7]not bel-[*|] [Cmaj7]ieve the information
+[Cmaj7] [G/C]Just [Cmaj7]had to trust [*|] [Cmaj7]imagination
+[Em/A]     [D]My heart [Em]going [*|] [Em]"Boom-boom-boom"
+[Em/A]"Son,"     [D/A]he said [Em] [*|] [Am7]"Grab your [G/B]things, I've [Dsus4]come to [D]take you home"
+{end_of_verse}
+
+{start_of_verse:Link 1}
+[*|][Gsus4] [G] [*|] [Gsus4] [G] [D] [Gsus2] [*|]
+[*|] [Gsus4] [G] [*|] [Gsus4] [G] [D] [Gsus2] [*|]
+{end_of_verse}
+
+{start_of_verse: Verse 2}
+To keep in silence I resigned
+My friends would think I was a nut
+Turning water into wine
+Open doors would soon be shut
+So I went from day to day
+Though my life was in a rut
+'Til I thought of what I'd say
+Which connection I should cut
+
+I was feeling part of the scenery
+I walked right out of the machinery
+My heart going "Boom-boom-boom"
+"Hey,"     he said, "Grab your things, I've come to take you home."
+{end_of_verse}
+
+{start_of_verse:Link 2}
+[*|:][Gsus4] [G] [*|] [Gsus4] [G] [D] [Gsus2] [*|]
+[*|][Gsus4] [G] [*|] [Gsus4] [G] [D] [Gsus2] [*:|] [*x2]
+{end_of_verse}
+
+{start_of_verse:Verse 3}
+When illusion spin her net
+I'm never where I wanna be
+And liberty, she pirouette
+When I think that I am free
+Watched by empty silhouettes
+Who close their eyes but still can see
+No one taught them etiquette
+I will show another me
+
+Today I don't need a replacement
+I'll tell them what the smile on my face meant
+My heart going "Boom-boom-boom"
+"Hey, " I said, "You can keep my things, they've come to take me home." 
+{end_of_verse}
+
+{start_of_verse:Outro}
+[*|:][Gsus4] [G] [*|] [Gsus4] [G] [D] [Gsus2] [*|]
+[*|][Gsus4] [G] [*|] [Gsus4] [G] [D] [Gsus2] [*:|] [G][Gsus2][G] [*||]
+{end_of_verse}
