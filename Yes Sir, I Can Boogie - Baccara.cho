@@ -1,45 +1,45 @@
 {title: Yes Sir, I Can Boogie }
 {artist: Baccara (in the style of UOGB)}
-{subtitle: v1 Key: D, Tempo: 130}
-{key: D }
+{subtitle: v2 Key: F, Tempo: 130}
+{key: F }
 {tempo: 130}
 {duration: 4:00}
 {define-ukulele: F#7 base-fret 0 frets 3 4 2 4}
 {define-ukulele: Bm/A base-fret 0 frets 2 2 2 2}
 {define-ukulele: F# base-fret 0 frets 3 1 2 1}
 
-{start_of_verse:Intro}
-[*|][F#7][*         | %           |]
-[*|][Bm][*        |][F#7][*         | ][Bm]  [Bm/A] [*|] [E7][*         |]
-[*|][D][*            |][F#7][*         |][B][*                |]
+{start_of_verse: Intro}
+[*|][A7][*         | %           |]
+[*|][Dm][*        |][A7][*         | ][Dm]  [Dm/C] [*|] [G7][*         |]
+[*|][F][*            |][A7][*         |][D][*                |]
 {end_of_verse}
 
 {start_of_verse: Verse 1}
-[D]Mister,        [F#7]		your eyes are full of hesi-		[Bm]tation.  [Bm/A] [E7]
-Sure makes me [D]wonder         [A7]if you know what you're looking [D]for.     [F#7]
-[D]Baby,			[F#7]I wanna keep my repu-[Bm]tation.			[Bm/A][E7]
-I'm a sens-[D]ation,		y[A7]ou try me once, you'll beg for[Bm] more.
+[F]Mister,        [A7]		your eyes are full of hesi-		[Dm]tation.  [Dm/C] [G7]
+Sure makes me [F]wonder         [C7]if you know what you're looking [F]for.     [A7]
+[F]Baby,			[A7]I wanna keep my repu-[Dm]tation.			[Dm/C][G7]
+I'm a sens-[F]ation,		y[C7]ou try me once, you'll beg for[Dm] more.
 {end_of_verse}
 
 {start_of_chorus: Chorus}
-Oh, [D]yes sir,		I can [F#7]boogie,		but I [G]need a certain song.
-I can [D]boogie,		boogie [F#7]woogie,		all night [B]long!
+Oh, [F]yes sir,		I can [A7]boogie,		but I [Bb]need a certain song.
+I can [F]boogie,		boogie [A7]woogie,		all night [D]long!
 
-[D]Yes sir,		I can [F#7]boogie,		if you [G]stay, you can't go wrong.
-I can [D]boogie,		boogie [F#7]woogie,		all night [B]long!
+[F]Yes sir,		I can [A7]boogie,		if you [Bb]stay, you can't go wrong.
+I can [F]boogie,		boogie [A7]woogie,		all night [D]long!
 {end_of_chorus}
 
 {start_of_verse: Verse 2}
-No [D]sir,			[F#7]I don't feel very much like [Bm]talking    [Bm/A][E7]
-No, neither w[D]alking,			[F#7]You wanna know if I can [Bm]dance?      [F#7]
-Yes [D]sir,			[F#7]Already told you in the first[Bm] verse   [E7]
-And in the [D]chorus,			but I w[A7]ill give you one more [Bm]chance.
+No [F]sir,			[A7]I don't feel very much like [Dm]talking    [Dm/C][G7]
+No, neither w[F]alking,			[A7]You wanna know if I can [Dm]dance?      [A7]
+Yes [F]sir,			[A7]Already told you in the first[Dm] verse     [Dm/C][G7]
+And in the [F]chorus,			but I w[C7]ill give you one more [Dm]chance.
 {end_of_verse}
 
 {start_of_chorus: Chorus}
-Oh, [D]yes sir, I can [F#7]boogie, but I [G]need a certain song.
-I can [D]boogie, boogie [F#7]woogie, all night [B]long.
+Oh, [F]yes sir, I can [A7]boogie, but I [Bb]need a certain song.
+I can [F]boogie, boogie [A7]woogie, all night [D]long.
 
-Oh, [D]yes sir, I can [F#7]boogie, if you [G]stay, you can't go wrong.
-I can [D]boogie, boogie [F#7]woogie, all night [B]long.
+Oh, [F]yes sir, I can [A7]boogie, if you [Bb]stay, you can't go wrong.
+I can [F]boogie, boogie [A7]woogie, all night [D]long.
 {end_of_chorus}
