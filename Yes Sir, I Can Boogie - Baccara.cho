@@ -8,11 +8,11 @@
 {define-ukulele: Bm/A base-fret 0 frets 2 2 2 2}
 {define-ukulele: F# base-fret 0 frets 3 1 2 1}
 
-{start_of_verse:Intro}
-[*|][F#7][*         | %           |]
-[*|][Bm][*        |][F#7][*         | ][Bm]  [Bm/A] [*|] [E7][*         |]
-[*|][D][*            |][F#7][*         |][B][*                |]
-{end_of_verse}
+{start_of_grid: Intro}
+| F#7 . . | % . . |
+| Bm . . | F#7 . . | Bm Bm/A . | E7 . . | 
+| D . .  | F#7 . . | B . . |
+{end_of_grid}
 
 {start_of_verse: Verse 1}
 [D]Mister,        [F#7]		your eyes are full of hesi-		[Bm]tation.  [Bm/A] [E7]
