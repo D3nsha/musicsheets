@@ -1,0 +1,79 @@
+{title: Thank You For The Music}
+{artist: ABBA}
+{subtitle: v1 Key: C, Tempo: 90}
+{key: C }
+{tempo: 90}
+{duration: 4:00}
+{define-ukulele: B7#5 base-fret 11 frets 2 1 1 2}
+{define-ukulele: Gaug base-fret 0 frets 0 3 3 2}
+{define-ukulele: Fm6 base-fret 0 frets 1 2 1 3 }
+
+{comment_box: Freely }
+{start_of_grid:Intro}
+| C . . | B7 . . | C . . | B7#5 . . |
+{end_of_grid}
+
+{start_of_verse:Verse 1}
+[C]I'm nothing [Cdim7]special, in [Dm7]fact I'm a [G7]bit of a 
+[C]bore.    <sym arrow-down /> <sym arrow-down /> <sym arrow-down />  <sym bar />  [Gm7]<sym arrow-down /> <sym arrow-down /> [C7]<sym arrow-down /> <sym arrow-down />  <sym bar />
+If [F]I tell a joke, you've [A7]probably heard it 
+[Dm7]before.    <sym arrow-down /> <sym arrow-down /> <sym arrow-down />  <sym bar />  [G7]<sym arrow-down /> <sym arrow-down />  [Gaug]<sym arrow-down /> <sym arrow-down />  <sym bar />
+But [C]I have a talent, a [G]wonderful thing.
+'Cause [C]everyone [C7]listens when [F]I start to [Fm]sing.
+I'm so [Am]grateful and proud.  <sym arrow-down /> <sym arrow-down />  <sym bar />  [F]<sym arrow-down /> <sym arrow-down />  <sym arrow-down /> <sym arrow-down />   <sym bar />
+All I [Dm]want is to sing it out [G]loud.
+[G]So     I     say:
+{end_of_verse}
+
+{comment_box: A tempo }
+{start_of_chorus: Chorus 1}
+[C]Thank you for the [Dm]music, the [G7]songs I'm [C]singing.
+[Am]Thanks for [Am7]all the [D7]joy they're [G7]bringing.
+[C]Who can live [Dm]without it, I [E7]ask in [Am]all hones[F]ty.
+What would life [Fm]be? 
+Without a [C]song or a [C7]dance, what are [A7]we?
+[A7]So     I     say     [Dm]thank you for the [F]music,
+for [G7]giving it to [C]me.    <sym arrow-down />   [Cdim7]<sym arrow-down /> <sym arrow-down />    <sym bar />  [Dm7]<sym arrow-down /> <sym arrow-down />   [G7]<sym arrow-down /> <sym arrow-down />  <sym bar />
+{end_of_chorus}
+
+{start_of_verse:Verse 2}
+[C]Mother said [Cdim7]I was a [Dm7]dancer long be[G7]fore I could 
+[C]walk.    <sym arrow-down /> <sym arrow-down /> <sym arrow-down />  <sym bar />  [Gm7]<sym arrow-down /> <sym arrow-down /> [C7]<sym arrow-down /> <sym arrow-down />  <sym bar />
+Mmmm, [F]she said I began to [A7]sing long before I could 
+[Dm7]talk.    <sym arrow-down /> <sym arrow-down /> <sym arrow-down />  <sym bar />  [G7]<sym arrow-down /> <sym arrow-down />  [Gaug]<sym arrow-down /> <sym arrow-down />  <sym bar />
+And [C]I've often wondered, how [G]did it all start?
+Who [C]found out that [C7]nothing can [F]capture a [Fm]heart
+Like a [Am]melody can?  <sym arrow-down /> <sym arrow-down />  <sym bar />  [F]<sym arrow-down /> <sym arrow-down />  <sym arrow-down /> <sym arrow-down />   <sym bar />
+Well, [Dm]whoever it was, I'm a [G]fan.
+[G]So     I     say:
+{end_of_verse}
+
+{start_of_chorus: Chorus 2}
+[C]Thank you for the [Dm]music, the [G7]songs I'm [C]singing.
+[Am]Thanks for [Am7]all the [D7]joy they're [G7]bringing.
+[C]Who can live [Dm]without it, I [E7]ask in [Am]all hones[F]ty.
+What would life [Fm]be?
+Without a [C]song or a [C7]dance, what are [A7]we?
+[A7]So		I	say [Dm]thank you for the [F]music,
+{comment_box: Slowing }
+for [G7]giving it to [C]me.<sym arrow-down />  [Fm6]<sym arrow-down /> <sym arrow-down />  <sym bar />   [C]<sym arrow-down /> <sym arrow-down />   [Fm6]<sym arrow-down /> <sym arrow-down />  <sym bar />
+{end_of_chorus}
+
+{start_of_verse: Bridge}
+[Fm]I've been so [C]lucky, I am the [Fm]girl with golden [C]hair.
+I wanna [Fm]sing it [E7]out to [Am]every[Am7]body
+[Dm]What a [*<sym arrow-down />]joy, [Dm7]what a [*<sym arrow-down />]life, [G7]what a [*<sym arrow-down />]chance!  [Dm7]<sym arrow-down /> [G7]<sym arrow-down />
+{end_of_verse}
+
+{start_of_chorus: Chorus 3}
+[C]Thank you for the [Dm]music, the [G7]songs I'm [C]singing.
+[Am]Thanks for [Am7]all the [D7]joy they're [G7]bringing.
+[C]Who can live [Dm]without it, I [E7]ask in [Am]all hones[F]ty.
+What would life [Fm]be?
+Without a [C]song or a [C7]dance, what are [A7]we?
+[A7]So     I     say     [Dm]thank you for the [F]music,
+for [G7]giving it to [C]me.  <sym arrow-down />   [C7]<sym arrow-down /> <sym arrow-down />  <sym bar /> [*(A7)]
+[A7]So     [Dm]I     [A7]say
+[Dm!]thank you for the [F!]music
+for [G7]giving it to [C]me   <sym arrow-down />  [F]<sym arrow-down /> <sym arrow-down />  <sym bar />  [C]<sym arrow-down /> <sym arrow-down />  [Fm]<sym arrow-down />  <sym arrow-down />  <sym bar />  [C]  <sym arrow-down-with-accent-and-arpeggio /> 
+{eoc}
