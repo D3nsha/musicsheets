@@ -653,6 +653,7 @@ pdf.fontconfig.serif.bolditalic : "georgiaz.ttf"
 
 // Font for typesetting titles.
 pdf.fonts.title : "sans bold 14"
+pdf.fonts.subtitle : "sans 12"
 
 // Font for typesetting lyrics.
 pdf.fonts.text : "serif 12"
