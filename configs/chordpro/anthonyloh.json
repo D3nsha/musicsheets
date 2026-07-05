@@ -593,10 +593,10 @@ pdf.fontconfig.serif.bolditalic : "georgiaz.ttf"
 # pdf.fontconfig.helvetica.oblique     : Helvetica-Oblique
 # pdf.fontconfig.helvetica.boldoblique : Helvetica-BoldOblique
 
-# pdf.fontconfig.sans.           : Helvetica
-# pdf.fontconfig.sans.bold       : Helvetica-Bold
-# pdf.fontconfig.sans.italic     : Helvetica-Oblique
-# pdf.fontconfig.sans.bolditalic : Helvetica-BoldOblique
+pdf.fontconfig.sans.           : "OpenSans-Regular.ttf"
+pdf.fontconfig.sans.bold       : "OpenSans-Bold.ttf"
+pdf.fontconfig.sans.italic     : "OpenSans-Italic.ttf"
+pdf.fontconfig.sans.bolditalic : "OpenSans-BoldItalic.ttf"
 
 # pdf.fontconfig.sans-serif.           : Helvetica
 # pdf.fontconfig.sans-serif.bold       : Helvetica-Bold
