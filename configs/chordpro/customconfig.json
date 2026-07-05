@@ -570,7 +570,7 @@ pdf.formats.first.footer : [ "%{title}" "%{subtitle}" "%{page}" ]
 // Relative filenames are looked up in the fontdir.
 // For example:
 // "fontdir" : [ "/usr/share/fonts/liberation", "/home/me/fonts" ]
-# pdf.fontdir : []
+pdf.fontdir : ["C:/Windows/Fonts"]
 
 // Remap corefonts to better fonts. null = if possible.
 # pdf.corefonts.remap         : null
@@ -578,10 +578,10 @@ pdf.formats.first.footer : [ "%{title}" "%{subtitle}" "%{page}" ]
 // IMPORTANT: THE ENTRY WITH THE TRAILING . DENOTES THE REGULAR FONT.
 
 // The font families.
-# pdf.fontconfig.serif.           : Times-Roman
-# pdf.fontconfig.serif.bold       : Times-Bold
-# pdf.fontconfig.serif.italic     : Times-Italic
-# pdf.fontconfig.serif.bolditalic : Times-BoldItalic
+pdf.fontconfig.serif.           : georgia
+pdf.fontconfig.serif.bold       : "georgiab.ttf"
+pdf.fontconfig.serif.italic     : "georgiai.ttf"
+pdf.fontconfig.serif.bolditalic : "georgiaz.ttf"
 
 # pdf.fontconfig.times.           : Times-Roman
 # pdf.fontconfig.times.bold       : Times-Bold
@@ -670,7 +670,7 @@ pdf.fonts.chord : "sans bold 10"
 # pdf.fonts.comment_italic : "Helvetica-Oblique 12"
 
 // Font for typesetting boxed comment text.
-pdf.fonts.comment_box : "serif italic bold 12; frame=1"
+pdf.fonts.comment_box : "serif bolditalic 12; frame=1"
 
 // Font for typesetting tabs.
 # pdf.fonts.tab : "mono 10"
