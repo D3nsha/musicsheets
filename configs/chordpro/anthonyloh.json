@@ -674,7 +674,7 @@ pdf.fonts.chord : "sans bold 10"
 pdf.fonts.comment_box : "serif bolditalic 12; frame=1"
 
 // Font for typesetting tabs.
-pdf.fonts.tab : "mono 10"
+pdf.fonts.tab : "mono 9"
 
 // Font for typesetting the table of contents.
 # pdf.fonts.toc : "serif 11"
