@@ -681,8 +681,10 @@ pdf.fonts.comment_box : "serif bolditalic 12; frame=1"
 // Font for typesetting grids.
 pdf.fonts.grid : "sans bold 10"
 
+// Font for the footer. This is used for page numbers and other footer text.
 pdf.fonts.footer : "sans italic 8"
 
+// Font for labels in the margin.
 pdf.fonts.label : "sans bolditalic 10"
 
 /**************** Settings for A2Crd (input) frontend ****************/
