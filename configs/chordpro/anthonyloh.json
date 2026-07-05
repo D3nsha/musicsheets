@@ -608,15 +608,15 @@ pdf.fontconfig.serif.bolditalic : "georgiaz.ttf"
 # pdf.fontconfig.courier.italic     : Courier-Oblique
 # pdf.fontconfig.courier.bolditalic : Courier-BoldOblique
 
-# pdf.fontconfig.mono.           : Courier
-# pdf.fontconfig.mono.bold       : Courier-Bold
-# pdf.fontconfig.mono.italic     : Courier-Oblique
-# pdf.fontconfig.mono.bolditalic : Courier-BoldOblique
+pdf.fontconfig.mono.           : "RobotoMono-Regular.ttf"
+pdf.fontconfig.mono.bold       : "RobotoMono-Bold.ttf"
+pdf.fontconfig.mono.italic     : "RobotoMono-Italic.ttf"
+pdf.fontconfig.mono.bolditalic : "RobotoMono-BoldItalic.ttf"
 
-# pdf.fontconfig.monospace.           : Courier
-# pdf.fontconfig.monospace.bold       : Courier-Bold
-# pdf.fontconfig.monospace.italic     : Courier-Oblique
-# pdf.fontconfig.monospace.bolditalic : Courier-BoldOblique
+pdf.fontconfig.monospace.           : "RobotoMono-Regular.ttf"
+pdf.fontconfig.monospace.bold       : "RobotoMono-Bold.ttf"
+pdf.fontconfig.monospace.italic     : "RobotoMono-Italic.ttf"
+pdf.fontconfig.monospace.bolditalic : "RobotoMono-BoldItalic.ttf"
 
 # pdf.fontconfig.muse.           : MuseJazzText.otf
 # pdf.fontconfig.muse.bold       : MuseJazzText.otf
@@ -674,7 +674,7 @@ pdf.fonts.chord : "sans bold 10"
 pdf.fonts.comment_box : "serif bolditalic 12; frame=1"
 
 // Font for typesetting tabs.
-# pdf.fonts.tab : "mono 10"
+pdf.fonts.tab : "mono 10"
 
 // Font for typesetting the table of contents.
 # pdf.fonts.toc : "serif 11"
